@@ -1,0 +1,1001 @@
+World Rank,National Rank,Name,Affiliation,Country,H-Index,Citations,#DBLP,Image URLs
+1,1,Yoshua Bengio,University of Montreal,Canada,223,682159,849,https://s.research.com/images/scholars/64x64/7517.webp
+2,1,Anil K. Jain,Michigan State University,United States,214,277338,"1,012",https://s.research.com/images/scholars/64x64/7028.webp
+3,1,Andrew Zisserman,University of Oxford,United Kingdom,197,391942,781,https://s.research.com/images/scholars/64x64/7471.webp
+4,2,Michael I. Jordan,University of California,Berkeley,197,266857,835,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+5,3,Jiawei Han,University of Illinois at Urbana-Champaign,United States,197,231048,"1,264",https://s.research.com/images/scholars/64x64/7162.webp
+6,1,Luc Van Gool,Institute for Computer Science,Artificial Intelligence and Technology (INSAIT),191,215777,"1,564",https://s.research.com/images/scholars/64x64/13425.webp
+7,4,Philip S. Yu,University of Illinois at Chicago,United States,191,175961,"1,999",https://s.research.com/images/scholars/64x64/7583.webp
+8,1,Wil M. P. van der Aalst,RWTH Aachen University,Germany,181,150733,"1,355",https://s.research.com/images/scholars/64x64/14140.webp
+9,2,Bernhard Schölkopf,Max Planck Institute for Intelligent Systems,Germany,180,228749,"1,227",https://s.research.com/images/scholars/64x64/9772.webp
+10,1,Francisco Herrera,University of Granada,Spain,180,142854,"1,038",https://s.research.com/images/scholars/64x64/9207.webp
+11,5,H. Vincent Poor,Princeton University,United States,175,152228,"2,410",https://s.research.com/images/scholars/64x64/28698.webp
+12,2,Geoffrey E. Hinton,University of Toronto,Canada,172,730105,435,https://s.research.com/images/scholars/64x64/9173.webp
+13,6,Takeo Kanade,Carnegie Mellon University,United States,170,143765,878,https://s.research.com/images/scholars/64x64/7868.webp
+14,7,Trevor Darrell,University of California,Berkeley,168,243475,633,https://s.research.com/images/scholars/64x64/11611.webp
+15,8,Jitendra Malik,University of California,Berkeley,167,223154,456,https://s.research.com/images/scholars/64x64/10905.webp
+16,1,Rajkumar Buyya,University of Melbourne,Australia,166,145211,"1,252",https://s.research.com/images/scholars/64x64/10069.webp
+17,9,Sebastian Thrun,Stanford University,United States,166,144567,428,https://s.research.com/images/scholars/64x64/8685.webp
+18,1,Dacheng Tao,Nanyang Technological University,Singapore,166,110459,"1,299",https://s.research.com/images/scholars/64x64/12793.webp
+19,10,Scott Shenker,University of California,Berkeley,164,175704,458,https://s.research.com/images/scholars/64x64/8060.webp
+20,3,Klaus-Robert Müller,Technical University of Berlin,Germany,161,131661,749,https://s.research.com/images/scholars/64x64/12791.webp
+21,11,Eric Horvitz,Microsoft (United States),United States,159,88393,831,https://s.research.com/images/scholars/64x64/8090.webp
+22,12,Georgios B. Giannakis,University of Minnesota,United States,158,91665,"1,279",https://s.research.com/images/scholars/64x64/9324.webp
+23,13,Christopher D. Manning,Stanford University,United States,155,220710,482,https://s.research.com/images/scholars/64x64/12559.webp
+24,1,Cordelia Schmid,French Institute for Research in Computer Science and Automation - INRIA,France,154,154230,493,https://s.research.com/images/scholars/64x64/14970.webp
+25,14,Pieter Abbeel,University of California,Berkeley,154,134167,576,https://s.research.com/images/scholars/64x64/21736.webp
+26,15,Ion Stoica,University of California,Berkeley,153,140170,476,https://s.research.com/images/scholars/64x64/11609.webp
+27,16,Ming-Hsuan Yang,University of California,Merced,153,118673,561,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+28,17,Sergey Levine,University of California,Berkeley,152,120143,552,https://s.research.com/images/scholars/64x64/30536.webp
+29,1,Xiaogang Wang,Chinese University of Hong Kong,China,152,112845,517,https://s.research.com/images/scholars/64x64/15599.webp
+30,18,Christos Faloutsos,Carnegie Mellon University,United States,151,110837,837,https://s.research.com/images/scholars/64x64/10911.webp
+31,19,Alex Pentland,MIT,United States,148,137851,762,https://s.research.com/images/scholars/64x64/10847.webp
+32,2,Shuicheng Yan,National University of Singapore,Singapore,148,94196,792,https://s.research.com/images/scholars/64x64/14861.webp
+33,20,Robert W. Heath,University of California,San Diego,148,93805,985,https://s.research.com/images/scholars/64x64/12248.webp
+34,2,Zidong Wang,Brunel University London,United Kingdom,148,72811,969,https://s.research.com/images/scholars/64x64/11589.webp
+35,21,Leonidas J. Guibas,Stanford University,United States,146,119955,645,https://s.research.com/images/scholars/64x64/12183.webp
+36,3,Xuemin Shen,University of Waterloo,Canada,146,86002,"1,619",https://s.research.com/images/scholars/64x64/16251.webp
+37,22,Jure Leskovec,Stanford University,United States,145,136744,435,https://s.research.com/images/scholars/64x64/22734.webp
+38,23,Jay S. Walker,Walker Digital (United States),United States,145,67189,359,https://s.research.com/images/scholars/64x64/8799.webp
+39,2,Qiang Yang,Hong Kong University of Science and Technology,China,144,121158,"1,149",https://s.research.com/images/scholars/64x64/15269.webp
+40,24,Tomaso Poggio,MIT,United States,144,118406,593,https://s.research.com/images/scholars/64x64/9525.webp
+41,25,Ian Foster,University of Chicago,United States,143,138925,957,https://s.research.com/images/scholars/64x64/11366.webp
+42,26,Dawn Song,University of California,Berkeley,143,96738,413,https://s.research.com/images/scholars/64x64/14525.webp
+43,4,Bernt Schiele,Max Planck Institute for Informatics,Germany,143,96362,597,https://s.research.com/images/scholars/64x64/13855.webp
+44,27,Jack Dongarra,University of Tennessee at Knoxville,United States,142,101459,"1,584",https://s.research.com/images/scholars/64x64/12613.webp
+45,1,Ian F. Akyildiz,Technology Innovation Institute,United Arab Emirates,141,142096,685,https://s.research.com/images/scholars/64x64/12643.webp
+46,28,Antonio Torralba,MIT,United States,141,124018,388,https://s.research.com/images/scholars/64x64/17868.webp
+47,29,Rama Chellappa,Johns Hopkins University,United States,141,92131,"1,100",https://s.research.com/images/scholars/64x64/12754.webp
+48,30,Albert-László Barabási,Northeastern University,United States,140,274143,320,https://s.research.com/images/scholars/64x64/8743.webp
+49,31,Alexander J. Smola,Amazon (United States),United States,140,164944,424,https://s.research.com/images/scholars/64x64/13452.webp
+50,32,Alan L. Yuille,Johns Hopkins University,United States,140,114873,722,https://s.research.com/images/scholars/64x64/17682.webp
+51,33,Don Towsley,University of Massachusetts Amherst,United States,140,83018,931,https://s.research.com/images/scholars/64x64/12402.webp
+52,3,Zeshui Xu,Sichuan University,China,140,79777,896,https://s.research.com/images/scholars/64x64/14616.webp
+53,34,Li Fei-Fei,Stanford University,United States,139,263425,409,https://s.research.com/images/scholars/64x64/22322.webp
+54,4,Witold Pedrycz,University of Alberta,Canada,139,99778,"2,247",https://s.research.com/images/scholars/64x64/13380.webp
+55,1,Athanasios V. Vasilakos,Luleå University of Technology,Sweden,139,66982,862,https://s.research.com/images/scholars/64x64/14213.webp
+56,5,Michael J. Black,Max Planck Institute for Intelligent Systems,Germany,138,88455,442,https://s.research.com/images/scholars/64x64/21468.webp
+57,4,Xuelong Li,China Telecom (China),China,138,74042,"1,054",https://s.research.com/images/scholars/64x64/16532.webp
+58,35,Shih-Fu Chang,Columbia University,United States,138,73924,730,https://s.research.com/images/scholars/64x64/14089.webp
+59,36,Deborah Estrin,Cornell University,United States,137,146044,626,https://s.research.com/images/scholars/64x64/12114.webp
+60,37,Huan Liu,Arizona State University,United States,137,89443,773,https://s.research.com/images/scholars/64x64/16124.webp
+61,5,Dinggang Shen,ShanghaiTech University,China,137,78090,"1,316",https://s.research.com/images/scholars/64x64/16726.webp
+62,38,Yann LeCun,Facebook (United States),United States,136,289809,384,https://s.research.com/images/scholars/64x64/16785.webp
+63,39,Andrew Y. Ng,Stanford University,United States,136,200356,315,https://s.research.com/images/scholars/64x64/13466.webp
+64,40,Dan Boneh,Stanford University,United States,136,120630,416,https://s.research.com/images/scholars/64x64/13904.webp
+65,6,Wolfram Burgard,University of Erlangen-Nuremberg,Germany,136,101677,740,https://s.research.com/images/scholars/64x64/15135.webp
+66,41,Daphne Koller,insitro Inc.,United States,136,96809,302,https://s.research.com/images/scholars/64x64/10649.webp
+67,3,Nicholas R. Jennings,Loughborough University,United Kingdom,136,94765,867,https://s.research.com/images/scholars/64x64/12490.webp
+68,6,Lei Zhang,Hong Kong Polytechnic University,China,136,91385,558,https://s.research.com/images/scholars/64x64/13125.webp
+69,42,Daniela Rus,MIT,United States,136,66395,844,https://s.research.com/images/scholars/64x64/16444.webp
+70,43,Kalyanmoy Deb,Michigan State University,United States,135,229641,786,https://s.research.com/images/scholars/64x64/14339.webp
+71,44,Richard Szeliski,University of Washington,United States,135,104670,402,https://s.research.com/images/scholars/64x64/12942.webp
+72,45,Ronald R. Yager,Iona University,United States,135,102764,"1,037",https://s.research.com/images/scholars/64x64/12517.webp
+73,46,Terrence J. Sejnowski,Salk Institute for Biological Studies,United States,134,120704,652,https://s.research.com/images/scholars/64x64/7723.webp
+74,7,David Zhang,Chinese University of Hong Kong,Shenzhen,134,86060,"1,521",https://s.research.com/images/scholars/64x64/12815.webp
+75,47,Larry S. Davis,University of Maryland,College Park,134,83087,746,https://s.research.com/images/scholars/64x64/15210.webp
+76,48,David E. Culler,University of California,Berkeley,133,119135,443,https://s.research.com/images/scholars/64x64/12792.webp
+77,49,Ben Shneiderman,University of Maryland,College Park,133,113027,778,https://s.research.com/images/scholars/64x64/13095.webp
+78,4,Philip H. S. Torr,University of Oxford,United Kingdom,133,92352,583,https://s.research.com/images/scholars/64x64/24052.webp
+79,50,Christos H. Papadimitriou,Columbia University,United States,133,87014,466,https://s.research.com/images/scholars/64x64/12383.webp
+80,2,Didier Dubois,Paul Sabatier University,France,133,86006,823,https://s.research.com/images/scholars/64x64/12589.webp
+81,51,Zhu Han,University of Houston,United States,133,74723,"1,447",https://s.research.com/images/scholars/64x64/17264.webp
+82,7,Hans-Peter Seidel,Max Planck Institute for Informatics,Germany,133,64110,"1,099",https://s.research.com/images/scholars/64x64/14051.webp
+83,52,Hari Balakrishnan,MIT,United States,132,155120,309,https://s.research.com/images/scholars/64x64/13736.webp
+84,53,William T. Freeman,MIT,United States,132,101605,388,https://s.research.com/images/scholars/64x64/14971.webp
+85,54,Stephen Grossberg,Boston University,United States,132,80872,588,https://s.research.com/images/scholars/64x64/11394.webp
+86,55,Vince D. Calhoun,Georgia State University,United States,132,74622,"1,059",https://s.research.com/images/scholars/64x64/13589.webp
+87,8,Hong-Jiang Zhang,ByteDance,China,132,68933,538,https://s.research.com/images/scholars/64x64/13683.webp
+88,56,MengChu Zhou,New Jersey Institute of Technology,United States,132,64324,"1,320",https://s.research.com/images/scholars/64x64/23303.webp
+89,57,Mubarak Shah,University of Central Florida,United States,131,87657,626,https://s.research.com/images/scholars/64x64/14930.webp
+90,8,Daniel Rueckert,Technical University of Munich,Germany,130,88991,929,https://s.research.com/images/scholars/64x64/23444.webp
+91,58,Dieter Fox,University of Washington,United States,130,82970,387,https://s.research.com/images/scholars/64x64/15142.webp
+92,3,Dusit Niyato,Nanyang Technological University,Singapore,130,78721,"1,571",https://s.research.com/images/scholars/64x64/29230.webp
+93,9,Liangpei Zhang,Wuhan University,China,130,66318,855,https://s.research.com/images/scholars/64x64/28840.webp
+94,59,Hojjat Adeli,The Ohio State University,United States,130,46904,565,https://s.research.com/images/scholars/64x64/17866.webp
+95,60,John A. Stankovic,University of Virginia,United States,129,70806,606,https://s.research.com/images/scholars/64x64/13427.webp
+96,2,U. Rajendra Acharya,University of Southern Queensland,Australia,129,65748,649,https://s.research.com/images/scholars/64x64/34026.webp
+97,61,Joshua B. Tenenbaum,MIT,United States,128,98388,629,https://s.research.com/images/scholars/64x64/25610.webp
+98,1,Luca Benini,ETH Zurich,Switzerland,127,68546,"1,600",https://s.research.com/images/scholars/64x64/15392.webp
+99,2,Enrique Herrera-Viedma,University of Granada,Spain,127,64550,828,https://s.research.com/images/scholars/64x64/23379.webp
+100,62,Charu C. Aggarwal,IBM (United States),United States,125,85342,681,https://s.research.com/images/scholars/64x64/16994.webp
+101,3,Henri Prade,Paul Sabatier University,France,125,82375,940,https://s.research.com/images/scholars/64x64/13744.webp
+102,2,Onur Mutlu,ETH Zurich,Switzerland,125,52017,582,https://s.research.com/images/scholars/64x64/24019.webp
+103,10,Xin Yao,Lingnan University,China,124,74911,884,https://s.research.com/images/scholars/64x64/17839.webp
+104,63,W. Bruce Croft,University of Massachusetts Amherst,United States,124,67727,523,https://s.research.com/images/scholars/64x64/22350.webp
+105,11,Chunhua Shen,Zhejiang University,China,124,63719,521,https://s.research.com/images/scholars/64x64/47294.webp
+106,64,Shree K. Nayar,Columbia University,United States,124,62802,407,https://s.research.com/images/scholars/64x64/13223.webp
+107,65,Jon Kleinberg,Cornell University,United States,123,128802,395,https://s.research.com/images/scholars/64x64/17256.webp
+108,66,Randy H. Katz,University of California,Berkeley,123,89251,451,https://s.research.com/images/scholars/64x64/14523.webp
+109,12,Zhi-Hua Zhou,Nanjing University,China,123,83245,652,https://s.research.com/images/scholars/64x64/21558.webp
+110,67,Alberto Sangiovanni-Vincentelli,University of California,Berkeley,123,65888,"1,074",https://s.research.com/images/scholars/64x64/15565.webp
+111,68,Amit P. Sheth,University of South Carolina,United States,123,61781,889,https://s.research.com/images/scholars/64x64/15704.webp
+112,3,Marc Pollefeys,ETH Zurich,Switzerland,123,57850,647,https://s.research.com/images/scholars/64x64/24437.webp
+113,5,Zoubin Ghahramani,University of Cambridge,United Kingdom,122,91534,425,https://s.research.com/images/scholars/64x64/17423.webp
+114,69,Alan C. Bovik,The University of Texas at Austin,United States,121,159388,913,https://s.research.com/images/scholars/64x64/22890.webp
+115,70,Judea Pearl,University of California,Los Angeles,121,124956,439,https://s.research.com/images/scholars/64x64/23242.webp
+116,71,Andrew McCallum,University of Massachusetts Amherst,United States,121,112538,442,https://s.research.com/images/scholars/64x64/17065.webp
+117,72,Theodore S. Rappaport,New York University,United States,121,106862,433,https://s.research.com/images/scholars/64x64/15485.webp
+118,73,Robert E. Tarjan,Princeton University,United States,121,94501,400,https://s.research.com/images/scholars/64x64/14939.webp
+119,74,Ron Kikinis,Brigham and Women's Hospital,United States,121,66930,573,https://s.research.com/images/scholars/64x64/10202.webp
+120,1,Noga Alon,Tel Aviv University,Israel,121,57827,917,https://s.research.com/images/scholars/64x64/16089.webp
+121,75,Mark Horowitz,Stanford University,United States,121,54973,429,https://s.research.com/images/scholars/64x64/11974.webp
+122,1,Ponnuthurai Nagaratnam Suganthan,Qatar University,Qatar,120,71107,595,https://s.research.com/images/scholars/64x64/26559.webp
+123,76,Rosalind W. Picard,MIT,United States,120,69981,430,https://s.research.com/images/scholars/64x64/23740.webp
+124,77,Martial Hebert,Carnegie Mellon University,United States,120,59012,519,https://s.research.com/images/scholars/64x64/17236.webp
+125,2,Daniel Cohen-Or,Tel Aviv University,Israel,120,58928,484,https://s.research.com/images/scholars/64x64/26241.webp
+126,78,Kim-Kwang Raymond Choo,The University of Texas at San Antonio,United States,120,52512,"1,077",https://s.research.com/images/scholars/64x64/265292.webp
+127,79,David L. Donoho,Stanford University,United States,119,168349,264,https://s.research.com/images/scholars/64x64/15419.webp
+128,80,Jason Weston,Facebook (United States),United States,119,110871,286,https://s.research.com/images/scholars/64x64/32138.webp
+129,6,Pushmeet Kohli,DeepMind (United Kingdom),United Kingdom,119,102490,395,https://s.research.com/images/scholars/64x64/34236.webp
+130,81,Richard G. Baraniuk,Rice University,United States,119,77910,740,https://s.research.com/images/scholars/64x64/16232.webp
+131,13,Stan Z. Li,Westlake University,China,119,67232,611,https://s.research.com/images/scholars/64x64/22992.webp
+132,14,Qi Tian,Huawei Technologies (China),China,119,66319,994,https://s.research.com/images/scholars/64x64/29255.webp
+133,15,Tieniu Tan,Chinese Academy of Sciences,China,119,62310,758,https://s.research.com/images/scholars/64x64/24343.webp
+134,2,Ling Shao,Terminus International,United Arab Emirates,119,56957,815,https://s.research.com/images/scholars/64x64/51732.webp
+135,1,Neeraj Kumar,Thapar University,India,119,53625,796,https://s.research.com/images/scholars/64x64/83103.webp
+136,1,Marco Dorigo,Université Libre de Bruxelles,Belgium,118,160695,523,https://s.research.com/images/scholars/64x64/17497.webp
+137,4,Martin Vetterli,École Polytechnique Fédérale de Lausanne,Switzerland,118,80904,757,https://s.research.com/images/scholars/64x64/14241.webp
+138,1,Andrzej Cichocki,Systems Research Institute,Poland,118,62785,978,https://s.research.com/images/scholars/64x64/23348.webp
+139,4,Tat-Seng Chua,National University of Singapore,Singapore,118,62006,713,https://s.research.com/images/scholars/64x64/30801.webp
+140,16,Wei-Ying Ma,Tsinghua University,China,118,59896,492,https://s.research.com/images/scholars/64x64/16035.webp
+141,82,Sushil Jajodia,George Mason University,United States,118,53009,775,https://s.research.com/images/scholars/64x64/16917.webp
+142,83,Mark Newman,University of Michigan–Ann Arbor,United States,117,225928,338,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+143,84,Stanley Osher,University of California,Los Angeles,117,141381,436,https://s.research.com/images/scholars/64x64/14666.webp
+144,85,Jeffrey D. Ullman,Stanford University,United States,117,133242,382,https://s.research.com/images/scholars/64x64/16403.webp
+145,86,Susan T. Dumais,Microsoft (United States),United States,117,101073,371,https://s.research.com/images/scholars/64x64/21904.webp
+146,87,Guillermo Sapiro,Duke University,United States,117,85355,616,https://s.research.com/images/scholars/64x64/16712.webp
+147,5,Chen Change Loy,Nanyang Technological University,Singapore,117,75504,300,https://s.research.com/images/scholars/64x64/63517.webp
+148,1,Thomas A. Henzinger,Institute of Science and Technology Austria,Austria,117,73349,584,https://s.research.com/images/scholars/64x64/17861.webp
+149,88,Mani Srivastava,University of California,Los Angeles,117,72585,612,https://s.research.com/images/scholars/64x64/17441.webp
+150,3,Merouane Debbah,Khalifa University,United Arab Emirates,117,69781,846,https://s.research.com/images/scholars/64x64/29338.webp
+151,17,Victor C. M. Leung,Shenzhen University,China,117,59055,"1,607",https://s.research.com/images/scholars/64x64/28347.webp
+152,89,David A. Patterson,University of California,Berkeley,116,117585,460,https://s.research.com/images/scholars/64x64/22114.webp
+153,90,Bing Liu,University of Illinois at Chicago,United States,116,89433,468,https://s.research.com/images/scholars/64x64/25675.webp
+154,4,Mohsen Guizani,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,116,69001,"1,278",https://s.research.com/images/scholars/64x64/47444.webp
+155,91,Jennifer Rexford,Princeton University,United States,116,64625,424,https://s.research.com/images/scholars/64x64/16745.webp
+156,4,Nicholas Ayache,French Institute for Research in Computer Science and Automation - INRIA,France,116,61274,687,https://s.research.com/images/scholars/64x64/23438.webp
+157,92,Heung-Yeung Shum,Microsoft (United States),United States,116,57648,456,https://s.research.com/images/scholars/64x64/14894.webp
+158,93,Kang G. Shin,University of Michigan–Ann Arbor,United States,116,55328,989,https://s.research.com/images/scholars/64x64/16629.webp
+159,94,Tong Zhang,University of Illinois at Urbana-Champaign,United States,116,52560,441,https://s.research.com/images/scholars/64x64/25789.webp
+160,95,Thomas Kailath,Stanford University,United States,115,76720,641,https://s.research.com/images/scholars/64x64/14911.webp
+161,1,Max A. Viergever,Utrecht University,Netherlands,115,69355,634,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+162,5,Pascal Fua,École Polytechnique Fédérale de Lausanne,Switzerland,115,69152,563,https://s.research.com/images/scholars/64x64/26387.webp
+163,5,Raquel Urtasun,University of Toronto,Canada,115,68664,354,https://s.research.com/images/scholars/64x64/34520.webp
+164,96,Moshe Y. Vardi,Rice University,United States,115,66989,828,https://s.research.com/images/scholars/64x64/16544.webp
+165,97,Kishor S. Trivedi,Duke University,United States,115,55809,771,https://s.research.com/images/scholars/64x64/17272.webp
+166,98,Noah A. Smith,University of Washington,United States,115,54237,426,https://s.research.com/images/scholars/64x64/45414.webp
+167,99,David E. Goldberg,University of Illinois at Urbana-Champaign,United States,114,299580,487,https://s.research.com/images/scholars/64x64/21581.webp
+168,100,Ruslan Salakhutdinov,Carnegie Mellon University,United States,114,180735,347,https://s.research.com/images/scholars/64x64/32447.webp
+169,3,Yonina C. Eldar,Weizmann Institute of Science,Israel,114,87353,936,https://s.research.com/images/scholars/64x64/29576.webp
+170,101,Dan Jurafsky,Stanford University,United States,114,65834,339,https://s.research.com/images/scholars/64x64/27973.webp
+171,9,Hermann Ney,RWTH Aachen University,Germany,114,64597,984,https://s.research.com/images/scholars/64x64/22000.webp
+172,102,Elisa Bertino,Purdue University West Lafayette,United States,114,54679,"1,457",https://s.research.com/images/scholars/64x64/22077.webp
+173,103,Pietro Perona,California Institute of Technology,United States,113,181078,407,https://s.research.com/images/scholars/64x64/22861.webp
+174,104,Vipin Kumar,University of Minnesota,United States,113,90704,609,https://s.research.com/images/scholars/64x64/22049.webp
+175,105,Mihir Bellare,University of California,San Diego,113,71920,297,https://s.research.com/images/scholars/64x64/17258.webp
+176,106,Pierre Baldi,University of California,Irvine,113,68959,499,https://s.research.com/images/scholars/64x64/15948.webp
+177,107,Jie Wu,Temple University,United States,113,66914,"1,299",https://s.research.com/images/scholars/64x64/11299.webp
+178,10,Daniel Cremers,Technical University of Munich,Germany,113,66050,642,https://s.research.com/images/scholars/64x64/28249.webp
+179,5,Eric P. Xing,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,113,56965,621,https://s.research.com/images/scholars/64x64/30575.webp
+180,18,Michael R. Lyu,Chinese University of Hong Kong,China,113,49544,679,https://s.research.com/images/scholars/64x64/25900.webp
+181,19,Meng Wang,Hefei University of Technology,China,113,47481,"1,134",https://s.research.com/images/scholars/64x64/54718.webp
+182,1,Jürgen Schmidhuber,King Abdullah University of Science and Technology,Saudi Arabia,112,210439,530,https://s.research.com/images/scholars/64x64/27037.webp
+183,108,Luke Zettlemoyer,University of Washington,United States,112,91383,286,https://s.research.com/images/scholars/64x64/82272.webp
+184,6,Michael Unser,École Polytechnique Fédérale de Lausanne,Switzerland,112,64929,852,https://s.research.com/images/scholars/64x64/16250.webp
+185,5,Francis Bach,École Normale Supérieure,France,112,60923,404,https://s.research.com/images/scholars/64x64/27323.webp
+186,109,Arogyaswami Paulraj,Stanford University,United States,112,55453,483,https://s.research.com/images/scholars/64x64/15702.webp
+187,110,C. Lee Giles,Pennsylvania State University,United States,112,54423,627,https://s.research.com/images/scholars/64x64/29917.webp
+188,6,Erik Cambria,Nanyang Technological University,Singapore,112,54170,495,https://s.research.com/images/scholars/64x64/42415.webp
+189,7,Markus Gross,ETH Zurich,Switzerland,112,45252,554,https://s.research.com/images/scholars/64x64/24018.webp
+190,1,Shyi-Ming Chen,Asia University Taiwan,Taiwan,112,33706,443,https://s.research.com/images/scholars/64x64/24132.webp
+191,111,Andreas F. Molisch,University of Southern California,United States,111,63310,786,https://s.research.com/images/scholars/64x64/24046.webp
+192,112,Martin J. Wainwright,MIT,United States,111,61664,337,https://s.research.com/images/scholars/64x64/25818.webp
+193,113,Walid Saad,Virginia Tech,United States,111,49296,693,https://s.research.com/images/scholars/64x64/55728.webp
+194,11,Christian Theobalt,Max Planck Institute for Informatics,Germany,111,43538,466,https://s.research.com/images/scholars/64x64/48353.webp
+195,114,Quoc V. Le,Google (United States),United States,110,145601,198,https://s.research.com/images/scholars/64x64/41601.webp
+196,4,Oded Goldreich,Weizmann Institute of Science,Israel,110,78646,439,https://s.research.com/images/scholars/64x64/22053.webp
+197,2,Bart De Moor,KU Leuven,Belgium,110,71993,984,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+198,12,Nassir Navab,Technical University of Munich,Germany,110,65414,"1,360",https://s.research.com/images/scholars/64x64/32277.webp
+199,2,Gert Pfurtscheller,Graz University of Technology,Austria,110,60104,409,https://s.research.com/images/scholars/64x64/12683.webp
+200,115,Michael Stonebraker,MIT,United States,110,55228,456,https://s.research.com/images/scholars/64x64/23742.webp
+201,20,Ying-Chang Liang,University of Electronic Science and Technology of China,China,110,51802,765,https://s.research.com/images/scholars/64x64/31086.webp
+202,21,Yaochu Jin,Westlake University,China,110,51374,678,https://s.research.com/images/scholars/64x64/41498.webp
+203,116,Lorrie Faith Cranor,Carnegie Mellon University,United States,110,46080,380,https://s.research.com/images/scholars/64x64/28357.webp
+204,1,Serge Belongie,University of Copenhagen,Denmark,109,180738,291,https://s.research.com/images/scholars/64x64/29093.webp
+205,117,Li Deng,Citadel,United States,109,85930,611,https://s.research.com/images/scholars/64x64/24511.webp
+206,118,Ramesh Govindan,University of Southern California,United States,109,67948,425,https://s.research.com/images/scholars/64x64/25415.webp
+207,5,Moni Naor,Weizmann Institute of Science,Israel,109,66748,486,https://s.research.com/images/scholars/64x64/24683.webp
+208,119,Panos M. Pardalos,University of Florida,United States,109,58436,"1,363",https://s.research.com/images/scholars/64x64/24763.webp
+209,120,Dimitris N. Metaxas,Rutgers,The State University of New Jersey,109,53847,794,https://s.research.com/images/scholars/64x64/26297.webp
+210,6,Jocelyn Chanussot,Grenoble Alpes University,France,109,48152,721,https://s.research.com/images/scholars/64x64/60022.webp
+211,121,David M. Blei,Columbia University,United States,108,122416,328,https://s.research.com/images/scholars/64x64/30049.webp
+212,122,Richard M. Karp,University of California,Berkeley,108,93580,291,https://s.research.com/images/scholars/64x64/17220.webp
+213,7,Andrew Blake,University of Cambridge,United Kingdom,108,81416,314,https://s.research.com/images/scholars/64x64/27895.webp
+214,123,Vladlen Koltun,Apple (United States),United States,108,66255,232,https://s.research.com/images/scholars/64x64/54236.webp
+215,124,Samuel Madden,MIT,United States,108,65484,373,https://s.research.com/images/scholars/64x64/30252.webp
+216,125,Jianfeng Gao,Microsoft (United States),United States,108,63354,471,https://s.research.com/images/scholars/64x64/45260.webp
+217,8,John M. Carroll,University of Sussex,United Kingdom,108,57674,842,https://s.research.com/images/scholars/64x64/23101.webp
+218,9,Björn Schuller,Imperial College London,United Kingdom,108,56899,"1,072",https://s.research.com/images/scholars/64x64/35900.webp
+219,6,Michel Gendreau,Polytechnique Montréal,Canada,108,54627,493,https://s.research.com/images/scholars/64x64/25276.webp
+220,126,Dinesh Manocha,University of Maryland,College Park,108,53913,906,https://s.research.com/images/scholars/64x64/25626.webp
+221,8,Davide Scaramuzza,University of Zurich,Switzerland,108,50839,335,https://s.research.com/images/scholars/64x64/79828.webp
+222,22,Wen Gao,Peking University,China,108,49053,"1,388",https://s.research.com/images/scholars/64x64/28231.webp
+223,23,Pheng-Ann Heng,Chinese University of Hong Kong,China,108,48376,709,https://s.research.com/images/scholars/64x64/55828.webp
+224,127,Sajal K. Das,Missouri University of Science and Technology,United States,108,42756,"1,164",https://s.research.com/images/scholars/64x64/29412.webp
+225,128,Alexei A. Efros,University of California,Berkeley,107,121079,223,https://s.research.com/images/scholars/64x64/40615.webp
+226,129,Lixia Zhang,University of California,Los Angeles,107,78606,360,https://s.research.com/images/scholars/64x64/24597.webp
+227,130,Fred Glover,University of Colorado Boulder,United States,107,74733,532,https://s.research.com/images/scholars/64x64/24138.webp
+228,131,Jennifer Widom,Stanford University,United States,107,63673,272,https://s.research.com/images/scholars/64x64/21526.webp
+229,132,Silvio Savarese,Stanford University,United States,107,63350,355,https://s.research.com/images/scholars/64x64/48621.webp
+230,13,Gerhard Weikum,Max Planck Institute for Informatics,Germany,107,54808,"1,039",https://s.research.com/images/scholars/64x64/25984.webp
+231,133,Hsinchun Chen,University of Arizona,United States,107,53612,838,https://s.research.com/images/scholars/64x64/23824.webp
+232,134,Jiebo Luo,University of Rochester,United States,107,50747,823,https://s.research.com/images/scholars/64x64/35205.webp
+233,135,Srinivas Devadas,MIT,United States,107,45993,499,https://s.research.com/images/scholars/64x64/24186.webp
+234,136,George J. Pappas,University of Pennsylvania,United States,107,44802,626,https://s.research.com/images/scholars/64x64/28032.webp
+235,10,Shaogang Gong,Queen Mary University of London,United Kingdom,107,43524,432,https://s.research.com/images/scholars/64x64/28888.webp
+236,11,Mark Harman,University College London,United Kingdom,107,43400,580,https://s.research.com/images/scholars/64x64/27928.webp
+237,137,Martín Abadi,Google (United States),United States,106,98936,350,https://s.research.com/images/scholars/64x64/25635.webp
+238,12,William J. Dally,Nvidia (United Kingdom),United Kingdom,106,84414,426,https://s.research.com/images/scholars/64x64/23183.webp
+239,138,Vern Paxson,University of California,Berkeley,106,69531,274,https://s.research.com/images/scholars/64x64/24321.webp
+240,1,Shun-ichi Amari,RIKEN Center for Brain Science,Japan,106,62118,509,https://s.research.com/images/scholars/64x64/32430.webp
+241,139,Robert E. Kraut,Carnegie Mellon University,United States,106,55884,295,https://s.research.com/images/scholars/64x64/21765.webp
+242,140,Alan S. Willsky,MIT,United States,106,53035,627,https://s.research.com/images/scholars/64x64/23271.webp
+243,1,Jon Atli Benediktsson,University of Iceland,Iceland,106,48780,536,https://s.research.com/images/scholars/64x64/30691.webp
+244,141,Maja J. Matarić,University of Southern California,United States,106,45356,604,https://s.research.com/images/scholars/64x64/26000.webp
+245,7,Ekram Hossain,University of Manitoba,Canada,106,43201,679,https://s.research.com/images/scholars/64x64/26983.webp
+246,142,Kurt Keutzer,University of California,Berkeley,106,39872,442,https://s.research.com/images/scholars/64x64/43298.webp
+247,24,Jun Wang,City University of Hong Kong,China,106,31446,453,https://s.research.com/images/scholars/64x64/2134745.webp
+248,25,Jiaya Jia,Hong Kong University of Science and Technology,China,105,66672,307,https://s.research.com/images/scholars/64x64/46392.webp
+249,143,Thomas L. Griffiths,Princeton University,United States,105,59125,497,https://s.research.com/images/scholars/64x64/30164.webp
+250,144,Joseph M. Hellerstein,University of California,Berkeley,105,54494,370,https://s.research.com/images/scholars/64x64/24765.webp
+251,8,F. Richard Yu,Carleton University,Canada,105,51865,755,https://s.research.com/images/scholars/64x64/57558.webp
+252,2,Ajith Abraham,Sai University,India,105,49909,"1,275",https://s.research.com/images/scholars/64x64/29752.webp
+253,145,Ramesh Raskar,MIT,United States,105,48745,676,https://s.research.com/images/scholars/64x64/28761.webp
+254,26,Jiashi Feng,ByteDance,China,105,46489,387,https://s.research.com/images/scholars/64x64/88691.webp
+255,146,Christopher Kruegel,University of California,Santa Barbara,105,40730,278,https://s.research.com/images/scholars/64x64/26575.webp
+256,1,Nicu Sebe,University of Trento,Italy,105,40647,644,https://s.research.com/images/scholars/64x64/41799.webp
+257,1,Joel J. P. C. Rodrigues,Federal University of Piauí,Brazil,105,40560,"1,042",https://s.research.com/images/scholars/64x64/65144.webp
+258,14,Thomas Brox,University of Freiburg,Germany,104,135454,319,https://s.research.com/images/scholars/64x64/39716.webp
+259,13,Josef Kittler,University of Surrey,United Kingdom,104,80225,"1,154",https://s.research.com/images/scholars/64x64/28728.webp
+260,1,Carlos A. Coello Coello,CINVESTAV,Mexico,104,65578,657,https://s.research.com/images/scholars/64x64/29975.webp
+261,147,Eamonn Keogh,University of California,Riverside,104,63396,335,https://s.research.com/images/scholars/64x64/29475.webp
+262,2,Bram van Ginneken,Radboud University,Netherlands,104,62463,399,https://s.research.com/images/scholars/64x64/62551.webp
+263,14,Jon Crowcroft,University of Cambridge,United Kingdom,104,60892,731,https://s.research.com/images/scholars/64x64/27354.webp
+264,148,Pat Hanrahan,Stanford University,United States,104,56994,293,https://s.research.com/images/scholars/64x64/24997.webp
+265,149,Eduard Hovy,Carnegie Mellon University,United States,104,56387,594,https://s.research.com/images/scholars/64x64/29739.webp
+266,150,Amin Vahdat,Google (United States),United States,104,54477,356,https://s.research.com/images/scholars/64x64/26766.webp
+267,3,Mel Slater,University of Barcelona,Spain,104,52088,387,https://s.research.com/images/scholars/64x64/27107.webp
+268,27,Huchuan Lu,Dalian University of Technology,China,104,51089,458,https://s.research.com/images/scholars/64x64/71067.webp
+269,15,Maja Pantic,Imperial College London,United Kingdom,104,49707,499,https://s.research.com/images/scholars/64x64/33601.webp
+270,151,Kannan Ramchandran,University of California,Berkeley,104,47923,584,https://s.research.com/images/scholars/64x64/30539.webp
+271,152,Imran Chaudhri,Humane Inc.,United States,104,47714,329,https://s.research.com/images/scholars/64x64/16935.webp
+272,153,Surajit Chaudhuri,Microsoft (United States),United States,104,44325,470,https://s.research.com/images/scholars/64x64/26066.webp
+273,154,Bernd Girod,Stanford University,United States,104,43134,615,https://s.research.com/images/scholars/64x64/21527.webp
+274,28,Ming Zhou,Langboat Technology,China,104,42682,520,https://s.research.com/images/scholars/64x64/52548.webp
+275,29,C. L. Philip Chen,South China University of Technology,China,104,41700,634,https://s.research.com/images/scholars/64x64/53450.webp
+276,155,Bahram Javidi,University of Connecticut,United States,104,41303,"1,021",https://s.research.com/images/scholars/64x64/24656.webp
+277,156,Brad A. Myers,Carnegie Mellon University,United States,104,40722,482,https://s.research.com/images/scholars/64x64/29737.webp
+278,30,Feiping Nie,Northwestern Polytechnical University,China,104,40270,721,https://s.research.com/images/scholars/64x64/44525.webp
+279,15,Peter Dayan,Max Planck Institute for Biological Cybernetics,Germany,103,89160,438,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+280,157,George Karypis,University of Minnesota,United States,103,86890,615,https://s.research.com/images/scholars/64x64/27521.webp
+281,1,Jiri Matas,Czech Technical University in Prague,Czech Republic,103,74203,388,https://s.research.com/images/scholars/64x64/44002.webp
+282,158,Michael J. Franklin,University of Chicago,United States,103,70307,359,https://s.research.com/images/scholars/64x64/23300.webp
+283,159,Biswanath Mukherjee,University of California,Davis,103,62928,798,https://s.research.com/images/scholars/64x64/24714.webp
+284,160,Tim Finin,University of Maryland,Baltimore County,103,53979,599,https://s.research.com/images/scholars/64x64/25560.webp
+285,161,Frédo Durand,MIT,United States,103,50541,307,https://s.research.com/images/scholars/64x64/33107.webp
+286,162,Christos Davatzikos,University of Pennsylvania,United States,103,46819,577,https://s.research.com/images/scholars/64x64/21552.webp
+287,163,Yejin Choi,University of Washington,United States,103,45423,299,https://s.research.com/images/scholars/64x64/151172.webp
+288,9,G. De Micheli,École Polytechnique Fédérale de Lausanne,Switzerland,103,44779,730,https://s.research.com/images/scholars/64x64/32434.webp
+289,164,Anoop Gupta,SeekOut,United States,103,43593,252,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+290,16,Heinrich H. Bülthoff,Max Planck Institute for Biological Cybernetics,Germany,103,39295,"1,218",https://s.research.com/images/scholars/64x64/27184.webp
+291,165,Dimitri P. Bertsekas,Arizona State University,United States,102,143627,326,https://s.research.com/images/scholars/64x64/24627.webp
+292,16,Andrea Vedaldi,University of Oxford,United Kingdom,102,92981,296,https://s.research.com/images/scholars/64x64/56172.webp
+293,6,Michael Elad,Technion – Israel Institute of Technology,Israel,102,84334,343,https://s.research.com/images/scholars/64x64/28326.webp
+294,10,Adrian Perrig,ETH Zurich,Switzerland,102,80731,433,https://s.research.com/images/scholars/64x64/24892.webp
+295,166,David R. Karger,MIT,United States,102,78240,330,https://s.research.com/images/scholars/64x64/26190.webp
+296,167,Samy Bengio,Apple (United States),United States,102,75489,380,https://s.research.com/images/scholars/64x64/36457.webp
+297,168,Thomas Anderson,University of Washington,United States,102,64429,249,https://s.research.com/images/scholars/64x64/17753.webp
+298,169,Jian Pei,Duke University,United States,102,64154,491,https://s.research.com/images/scholars/64x64/28798.webp
+299,17,Ian Horrocks,University of Oxford,United Kingdom,102,62708,468,https://s.research.com/images/scholars/64x64/25434.webp
+300,17,Peter F. Stadler,Leipzig University,Germany,102,60381,647,https://s.research.com/images/scholars/64x64/16870.webp
+301,3,Ian Reid,University of Adelaide,Australia,102,59260,407,https://s.research.com/images/scholars/64x64/34231.webp
+302,31,Wangmeng Zuo,Harbin Institute of Technology,China,102,57076,579,https://s.research.com/images/scholars/64x64/61273.webp
+303,11,Jean-Pierre Hubaux,École Polytechnique Fédérale de Lausanne,Switzerland,102,49972,441,https://s.research.com/images/scholars/64x64/42048.webp
+304,170,Stefan Schaal,Google (United States),United States,102,47520,384,https://s.research.com/images/scholars/64x64/29235.webp
+305,18,Sebastien Ourselin,King's College London,United Kingdom,102,46534,947,https://s.research.com/images/scholars/64x64/35981.webp
+306,2,Christian S. Jensen,Aalborg University,Denmark,102,39240,680,https://s.research.com/images/scholars/64x64/31325.webp
+307,171,Ronald L. Rivest,MIT,United States,101,160177,343,https://s.research.com/images/scholars/64x64/24628.webp
+308,18,Hans-Peter Kriegel,Ludwig-Maximilians-Universität München,Germany,101,117914,464,https://s.research.com/images/scholars/64x64/24591.webp
+309,19,Michael Wooldridge,University of Oxford,United Kingdom,101,78899,572,https://s.research.com/images/scholars/64x64/24054.webp
+310,172,Nick McKeown,Stanford University,United States,101,64022,238,https://s.research.com/images/scholars/64x64/25000.webp
+311,173,Steven H. Low,California Institute of Technology,United States,101,50500,437,https://s.research.com/images/scholars/64x64/29495.webp
+312,174,Jan Kautz,Nvidia (United States),United States,101,49187,371,https://s.research.com/images/scholars/64x64/78840.webp
+313,175,Daniel S. Weld,University of Washington,United States,101,48442,335,https://s.research.com/images/scholars/64x64/29260.webp
+314,32,Xing Xie,Microsoft Research Asia (China),China,101,48018,411,https://s.research.com/images/scholars/64x64/35071.webp
+315,9,John Mylopoulos,University of Ottawa,Canada,101,47860,836,https://s.research.com/images/scholars/64x64/26288.webp
+316,19,Steffen Staab,University of Stuttgart,Germany,101,46249,588,https://s.research.com/images/scholars/64x64/24528.webp
+317,176,Mihalis Yannakakis,Columbia University,United States,101,45529,262,https://s.research.com/images/scholars/64x64/26604.webp
+318,177,Shrikanth S. Narayanan,University of Southern California,United States,101,44532,"1,120",https://s.research.com/images/scholars/64x64/25994.webp
+319,178,Arthur C. Graesser,University of Memphis,United States,101,43986,563,https://s.research.com/images/scholars/64x64/22059.webp
+320,20,Mike Thelwall,University of Sheffield,United Kingdom,101,42574,575,https://s.research.com/images/scholars/64x64/29548.webp
+321,179,Gaurav S. Sukhatme,University of Southern California,United States,101,38698,723,https://s.research.com/images/scholars/64x64/25997.webp
+322,21,Edmund K. Burke,Bangor University,United Kingdom,101,36709,394,https://s.research.com/images/scholars/64x64/29697.webp
+323,180,Sara Kiesler,Carnegie Mellon University,United States,100,69942,238,https://s.research.com/images/scholars/64x64/24788.webp
+324,22,Roberto Cipolla,University of Cambridge,United Kingdom,100,68026,543,https://s.research.com/images/scholars/64x64/28044.webp
+325,181,David Heckerman,Microsoft (United States),United States,100,62574,338,https://s.research.com/images/scholars/64x64/13894.webp
+326,182,James A. Hendler,Rensselaer Polytechnic Institute,United States,100,57582,553,https://s.research.com/images/scholars/64x64/28857.webp
+327,4,Amir H. Gandomi,University of Technology Sydney,Australia,100,55904,490,https://s.research.com/images/scholars/64x64/69693.webp
+328,7,Olivier Faugeras,Université Côte d'Azur,France,100,53013,382,https://s.research.com/images/scholars/64x64/31531.webp
+329,183,Tommi S. Jaakkola,MIT,United States,100,49613,326,https://s.research.com/images/scholars/64x64/38842.webp
+330,184,Mark A. Musen,Stanford University,United States,100,47959,593,https://s.research.com/images/scholars/64x64/30090.webp
+331,185,Tarek Abdelzaher,University of Illinois at Urbana-Champaign,United States,100,42390,593,https://s.research.com/images/scholars/64x64/28077.webp
+332,186,Gene Tsudik,University of California,Irvine,100,42082,449,https://s.research.com/images/scholars/64x64/27111.webp
+333,33,Wei Liu,Tencent (China),China,100,40175,405,https://s.research.com/images/scholars/64x64/65406.webp
+334,187,Kristen Grauman,The University of Texas at Austin,United States,100,37592,281,https://s.research.com/images/scholars/64x64/40323.webp
+335,188,Jason Cong,University of California,Los Angeles,100,36614,650,https://s.research.com/images/scholars/64x64/27387.webp
+336,189,Lawrence R. Rabiner,Rutgers,The State University of New Jersey,99,105658,428,https://s.research.com/images/scholars/64x64/23358.webp
+337,23,Rolf Apweiler,European Bioinformatics Institute,United Kingdom,99,98250,291,https://s.research.com/images/scholars/64x64/25490.webp
+338,24,Xin-She Yang,Middlesex University,United Kingdom,99,89159,415,https://s.research.com/images/scholars/64x64/35439.webp
+339,190,William Stafford Noble,University of Washington,United States,99,84435,337,https://s.research.com/images/scholars/64x64/26028.webp
+340,191,Jerry M. Mendel,University of Southern California,United States,99,61944,518,https://s.research.com/images/scholars/64x64/24923.webp
+341,192,Abhinav Gupta,Carnegie Mellon University,United States,99,59274,196,https://s.research.com/images/scholars/64x64/47925.webp
+342,193,Percy Liang,Stanford University,United States,99,54667,265,https://s.research.com/images/scholars/64x64/103137.webp
+343,194,Thomas Funkhouser,Google (United States),United States,99,51150,202,https://s.research.com/images/scholars/64x64/38892.webp
+344,195,Varun Grover,University of Arkansas at Fayetteville,United States,99,48081,295,https://s.research.com/images/scholars/64x64/28402.webp
+345,196,Wenke Lee,Georgia Institute of Technology,United States,99,45841,297,https://s.research.com/images/scholars/64x64/28335.webp
+346,197,Michael K. Reiter,Duke University,United States,99,45383,397,https://s.research.com/images/scholars/64x64/28636.webp
+347,198,Dan Roth,University of Pennsylvania,United States,99,40958,581,https://s.research.com/images/scholars/64x64/36275.webp
+348,34,Xilin Chen,University of Chinese Academy of Sciences,China,99,40025,580,https://s.research.com/images/scholars/64x64/53882.webp
+349,199,Ward Whitt,Columbia University,United States,99,38617,384,https://s.research.com/images/scholars/64x64/22303.webp
+350,10,Yiyu Yao,University of Regina,Canada,99,37452,483,https://s.research.com/images/scholars/64x64/30514.webp
+351,11,Saul Greenberg,University of Calgary,Canada,99,32322,426,https://s.research.com/images/scholars/64x64/27109.webp
+352,25,Yudong Zhang,University of Leicester,United Kingdom,99,28942,446,https://s.research.com/images/scholars/64x64/65214.webp
+353,200,David Tse,Stanford University,United States,98,98671,356,https://s.research.com/images/scholars/64x64/35117.webp
+354,5,James C. Bezdek,University of Melbourne,Australia,98,81228,418,https://s.research.com/images/scholars/64x64/29378.webp
+355,201,Gregory D. Abowd,Northeastern University,United States,98,66423,470,https://s.research.com/images/scholars/64x64/28334.webp
+356,202,Rajeev Alur,University of Pennsylvania,United States,98,59468,380,https://s.research.com/images/scholars/64x64/29358.webp
+357,203,Sergio Verdu,Princeton University,United States,98,56539,420,https://s.research.com/images/scholars/64x64/27365.webp
+358,35,Kui Ren,Zhejiang University,China,98,56017,475,https://s.research.com/images/scholars/64x64/38156.webp
+359,204,Joseph Y. Halpern,Cornell University,United States,98,55037,465,https://s.research.com/images/scholars/64x64/26433.webp
+360,7,Shlomo Shamai,Technion – Israel Institute of Technology,Israel,98,53449,911,https://s.research.com/images/scholars/64x64/31441.webp
+361,205,Avi Wigderson,Institute for Advanced Study,United States,98,53010,371,https://s.research.com/images/scholars/64x64/31223.webp
+362,206,Oren Etzioni,University of Washington,United States,98,51339,258,https://s.research.com/images/scholars/64x64/30973.webp
+363,3,Horst Bischof,Graz University of Technology,Austria,98,50294,860,https://s.research.com/images/scholars/64x64/29884.webp
+364,36,Yunhao Liu,Tsinghua University,China,98,49527,624,https://s.research.com/images/scholars/64x64/32783.webp
+365,37,Licheng Jiao,Xidian University,China,98,45170,"1,560",https://s.research.com/images/scholars/64x64/52797.webp
+366,207,Jeffrey F. Cohn,University of Pittsburgh,United States,98,44669,298,https://s.research.com/images/scholars/64x64/23535.webp
+367,208,Salvatore J. Stolfo,Columbia University,United States,98,43279,355,https://s.research.com/images/scholars/64x64/26605.webp
+368,209,Russ B. Altman,Stanford University,United States,98,42861,525,https://s.research.com/images/scholars/64x64/24094.webp
+369,38,Song-Chun Zhu,Peking University,China,98,40642,528,https://s.research.com/images/scholars/64x64/48872.webp
+370,12,Lionel C. Briand,University of Ottawa,Canada,98,39712,509,https://s.research.com/images/scholars/64x64/38099.webp
+371,39,Yuan Xie,Hong Kong University of Science and Technology,China,98,37200,692,https://s.research.com/images/scholars/64x64/42467.webp
+372,210,DeLiang Wang,The Ohio State University,United States,98,34592,498,https://s.research.com/images/scholars/64x64/37610.webp
+373,211,Assaf Natanzon,DELL (United States),United States,98,17904,229,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+374,8,Adi Shamir,Weizmann Institute of Science,Israel,97,123732,257,https://s.research.com/images/scholars/64x64/28201.webp
+375,212,David Wagner,University of California,Berkeley,97,71310,261,https://s.research.com/images/scholars/64x64/28993.webp
+376,213,Christopher D. Wickens,Colorado State University,United States,97,58530,535,https://s.research.com/images/scholars/64x64/32058.webp
+377,214,William W. Cohen,Google (United States),United States,97,50057,381,https://s.research.com/images/scholars/64x64/40227.webp
+378,4,Herbert Edelsbrunner,Institute of Science and Technology Austria,Austria,97,49026,351,https://s.research.com/images/scholars/64x64/27408.webp
+379,215,Michael Luby,BitRipple,United States,97,47308,255,https://s.research.com/images/scholars/64x64/24934.webp
+380,4,Antonio Plaza,University of Extremadura,Spain,97,46551,648,https://s.research.com/images/scholars/64x64/46139.webp
+381,216,Alon Halevy,Facebook (United States),United States,97,45508,308,https://s.research.com/images/scholars/64x64/38891.webp
+382,217,David J. DeWitt,University of Wisconsin–Madison,United States,97,45001,253,https://s.research.com/images/scholars/64x64/25486.webp
+383,218,Furu Wei,Microsoft (United States),United States,97,41196,344,https://s.research.com/images/scholars/64x64/142916.webp
+384,219,Lawrence Carin,Duke University,United States,97,40692,814,https://s.research.com/images/scholars/64x64/31648.webp
+385,220,Andrew B. Whinston,The University of Texas at Austin,United States,97,40388,696,https://s.research.com/images/scholars/64x64/26249.webp
+386,40,Min Chen,South China University of Technology,China,97,39383,581,https://s.research.com/images/scholars/64x64/25325.webp
+387,221,Hosagrahar V. Jagadish,University of Michigan–Ann Arbor,United States,97,38996,449,https://s.research.com/images/scholars/64x64/30728.webp
+388,222,K.J.R. Liu,University of Maryland,College Park,97,37961,804,https://s.research.com/images/scholars/64x64/32107.webp
+389,41,Shiguang Shan,Chinese Academy of Sciences,China,97,37496,532,https://s.research.com/images/scholars/64x64/49675.webp
+390,223,Haibin Ling,Stony Brook University,United States,97,37037,393,https://s.research.com/images/scholars/64x64/64559.webp
+391,224,Giovanni Vigna,University of California,Santa Barbara,97,36070,297,https://s.research.com/images/scholars/64x64/32791.webp
+392,2,Oscar Castillo,Instituto Tecnológico de Tijuana,Mexico,97,29603,"1,086",https://s.research.com/images/scholars/64x64/40666.webp
+393,26,Henning Hermjakob,European Bioinformatics Institute,United Kingdom,96,97267,344,https://s.research.com/images/scholars/64x64/42558.webp
+394,225,Pavel A. Pevzner,University of California,San Diego,96,80612,312,https://s.research.com/images/scholars/64x64/24834.webp
+395,226,Katia Sycara,Carnegie Mellon University,United States,96,48294,766,https://s.research.com/images/scholars/64x64/30576.webp
+396,20,Carsten Rother,Heidelberg University,Germany,96,44967,279,https://s.research.com/images/scholars/64x64/37487.webp
+397,227,George Varghese,University of California,Los Angeles,96,43937,295,https://s.research.com/images/scholars/64x64/31873.webp
+398,3,Grzegorz Rozenberg,Leiden University,Netherlands,96,42270,820,https://s.research.com/images/scholars/64x64/26565.webp
+399,6,Albert Y. Zomaya,University of Sydney,Australia,96,41077,"1,240",https://s.research.com/images/scholars/64x64/44616.webp
+400,42,Xiang Bai,Huazhong University of Science and Technology,China,96,40387,297,https://s.research.com/images/scholars/64x64/77918.webp
+401,228,Gregory D. Hager,Johns Hopkins University,United States,96,38519,584,https://s.research.com/images/scholars/64x64/44900.webp
+402,229,Alex Waibel,Carnegie Mellon University,United States,96,37961,740,https://s.research.com/images/scholars/64x64/29142.webp
+403,9,Micha Sharir,Tel Aviv University,Israel,96,37594,684,https://s.research.com/images/scholars/64x64/27494.webp
+404,12,Horst Bunke,University of Bern,Switzerland,96,35261,609,https://s.research.com/images/scholars/64x64/29506.webp
+405,230,J.J. Garcia-Luna-Aceves,University of California,Santa Cruz,96,34002,624,https://s.research.com/images/scholars/64x64/24105.webp
+406,231,Divesh Srivastava,AT&T (United States),United States,96,33657,488,https://s.research.com/images/scholars/64x64/29038.webp
+407,232,Regina Barzilay,MIT,United States,96,33350,273,https://s.research.com/images/scholars/64x64/69271.webp
+408,233,John C. Mitchell,Stanford University,United States,96,32096,321,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+409,43,Jiwen Lu,Tsinghua University,China,96,31112,474,https://s.research.com/images/scholars/64x64/83173.webp
+410,13,Aaron Courville,University of Montreal,Canada,95,226291,254,https://s.research.com/images/scholars/64x64/52285.webp
+411,1,Matti Pietikäinen,University of Oulu,Finland,95,83657,359,https://s.research.com/images/scholars/64x64/25592.webp
+412,234,Kalle Lyytinen,Case Western Reserve University,United States,95,45141,511,https://s.research.com/images/scholars/64x64/30412.webp
+413,1,Marlon Dumas,University of Tartu,Estonia,95,44107,476,https://s.research.com/images/scholars/64x64/41299.webp
+414,235,Raymond J. Mooney,The University of Texas at Austin,United States,95,41951,300,https://s.research.com/images/scholars/64x64/32182.webp
+415,2,Roman Słowiński,Poznań University of Technology,Poland,95,41875,422,https://s.research.com/images/scholars/64x64/33241.webp
+416,236,Dina Katabi,MIT,United States,95,40943,237,https://s.research.com/images/scholars/64x64/42878.webp
+417,237,C.-C. Jay Kuo,University of Southern California,United States,95,40778,"1,448",https://s.research.com/images/scholars/64x64/84579.webp
+418,44,Liang Wang,Chinese Academy of Sciences,China,95,40521,442,https://s.research.com/images/scholars/64x64/2135017.webp
+419,238,Hanspeter Pfister,Harvard University,United States,95,37962,464,https://s.research.com/images/scholars/64x64/37131.webp
+420,239,Mohan M. Trivedi,University of California,San Diego,95,36479,574,https://s.research.com/images/scholars/64x64/31603.webp
+421,240,Krishnendu Chakrabarty,Arizona State University,United States,95,36213,"1,105",https://s.research.com/images/scholars/64x64/25922.webp
+422,241,Shahram Izadi,Google (United States),United States,95,34373,299,https://s.research.com/images/scholars/64x64/35343.webp
+423,3,Bart Preneel,KU Leuven,Belgium,95,33704,809,https://s.research.com/images/scholars/64x64/33030.webp
+424,14,Laurence T. Yang,St. Francis Xavier University,Canada,95,31542,"1,102",https://s.research.com/images/scholars/64x64/68327.webp
+425,242,Louis B. Rosenberg,Unanimous AI,United States,95,30991,251,https://s.research.com/images/scholars/64x64/21332.webp
+426,45,Yuguang Fang,City University of Hong Kong,China,95,28384,592,https://s.research.com/images/scholars/64x64/30530.webp
+427,46,Kwok-wing Chau,Hong Kong Polytechnic University,China,95,27523,305,https://s.research.com/images/scholars/64x64/46078.webp
+428,243,Eero P. Simoncelli,New York University,United States,94,110273,283,https://s.research.com/images/scholars/64x64/33186.webp
+429,2,Tony F. Chan,King Abdullah University of Science and Technology,Saudi Arabia,94,67107,428,https://s.research.com/images/scholars/64x64/27605.webp
+430,244,James Demmel,University of California,Berkeley,94,52557,397,https://s.research.com/images/scholars/64x64/34536.webp
+431,245,ChengXiang Zhai,University of Illinois at Urbana-Champaign,United States,94,43935,482,https://s.research.com/images/scholars/64x64/34156.webp
+432,7,Mark Billinghurst,University of South Australia,Australia,94,39674,785,https://s.research.com/images/scholars/64x64/44929.webp
+433,246,Dan Suciu,University of Washington,United States,94,37984,440,https://s.research.com/images/scholars/64x64/30834.webp
+434,13,Roger Wattenhofer,ETH Zurich,Switzerland,94,36899,612,https://s.research.com/images/scholars/64x64/31721.webp
+435,247,Jonathan Katz,University of Maryland,College Park,94,34862,352,https://s.research.com/images/scholars/64x64/37653.webp
+436,248,Sherali Zeadally,University of Kentucky,United States,94,33915,590,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+437,27,Xiaohui Liu,Brunel University London,United Kingdom,94,33758,367,https://s.research.com/images/scholars/64x64/28905.webp
+438,21,Ahmad-Reza Sadeghi,Technical University of Darmstadt,Germany,94,33402,583,https://s.research.com/images/scholars/64x64/44212.webp
+439,15,Jimmy Lin,University of Waterloo,Canada,94,32343,570,https://s.research.com/images/scholars/64x64/57424.webp
+440,47,Xiang-Yang Li,University of Science and Technology of China,China,94,31982,645,https://s.research.com/images/scholars/64x64/34251.webp
+441,48,Huiling Chen,Wenzhou University,China,94,31467,261,https://s.research.com/images/scholars/64x64/185134.webp
+442,14,Daniel Thalmann,École Polytechnique Fédérale de Lausanne,Switzerland,94,29269,867,https://s.research.com/images/scholars/64x64/30561.webp
+443,249,Ken Hinckley,Microsoft (United States),United States,94,26450,295,https://s.research.com/images/scholars/64x64/26608.webp
+444,16,Simon Haykin,McMaster University,Canada,93,91110,485,https://s.research.com/images/scholars/64x64/37456.webp
+445,5,Schahram Dustdar,TU Wien,Austria,93,46791,"1,085",https://s.research.com/images/scholars/64x64/42522.webp
+446,250,Inderjit S. Dhillon,The University of Texas at Austin,United States,93,45863,307,https://s.research.com/images/scholars/64x64/31241.webp
+447,15,Ali H. Sayed,École Polytechnique Fédérale de Lausanne,Switzerland,93,45695,724,https://s.research.com/images/scholars/64x64/33494.webp
+448,22,Radu Timofte,University of Wurzburg,Germany,93,42749,450,https://s.research.com/images/scholars/64x64/194537.webp
+449,49,Wanli Ouyang,Shanghai AI Lab,China,93,41620,343,https://s.research.com/images/scholars/64x64/87493.webp
+450,16,Andreas Krause,ETH Zurich,Switzerland,93,39933,344,https://s.research.com/images/scholars/64x64/41015.webp
+451,50,Maosong Sun,Tsinghua University,China,93,39300,500,https://s.research.com/images/scholars/64x64/153170.webp
+452,251,Stefano Soatto,University of California,Los Angeles,93,34758,465,https://s.research.com/images/scholars/64x64/47120.webp
+453,252,Klara Nahrstedt,University of Illinois at Urbana-Champaign,United States,93,34201,731,https://s.research.com/images/scholars/64x64/30216.webp
+454,253,Tuomas Sandholm,Carnegie Mellon University,United States,93,32544,434,https://s.research.com/images/scholars/64x64/31511.webp
+455,254,Alexander G. Hauptmann,Carnegie Mellon University,United States,93,32173,552,https://s.research.com/images/scholars/64x64/40705.webp
+456,28,Mirella Lapata,University of Edinburgh,United Kingdom,93,31963,325,https://s.research.com/images/scholars/64x64/47433.webp
+457,51,Liang Lin,Sun Yat-sen University,China,93,30475,394,https://s.research.com/images/scholars/64x64/82030.webp
+458,255,Andrew D. Wilson,Microsoft (United States),United States,93,30353,301,https://s.research.com/images/scholars/64x64/27948.webp
+459,256,Scott Forstall,Apple (United States),United States,93,30300,164,https://s.research.com/images/scholars/64x64/25361.webp
+460,17,Ahmed E. Hassan,Queen's University,Canada,93,28302,395,https://s.research.com/images/scholars/64x64/40867.webp
+461,257,John Platt,Google (United States),United States,92,98587,398,https://s.research.com/images/scholars/64x64/30059.webp
+462,258,Donald E. Knuth,Stanford University,United States,92,89974,308,https://s.research.com/images/scholars/64x64/30910.webp
+463,17,Lothar Thiele,ETH Zurich,Switzerland,92,77030,638,https://s.research.com/images/scholars/64x64/33762.webp
+464,259,Tom M. Mitchell,Carnegie Mellon University,United States,92,66037,317,https://s.research.com/images/scholars/64x64/39339.webp
+465,260,Raghu Ramakrishnan,Microsoft (United States),United States,92,56110,323,https://s.research.com/images/scholars/64x64/31874.webp
+466,261,William Gropp,University of Illinois at Urbana-Champaign,United States,92,54283,499,https://s.research.com/images/scholars/64x64/38785.webp
+467,52,Lionel M. Ni,Hong Kong University of Science and Technology,China,92,52174,524,https://s.research.com/images/scholars/64x64/38597.webp
+468,262,Stefan Savage,University of California,San Diego,92,51944,203,https://s.research.com/images/scholars/64x64/38186.webp
+469,29,Carole Goble,University of Manchester,United Kingdom,92,46674,589,https://s.research.com/images/scholars/64x64/34378.webp
+470,263,Pramod K. Varshney,Syracuse University,United States,92,44569,923,https://s.research.com/images/scholars/64x64/37359.webp
+471,23,Daniel A. Keim,University of Konstanz,Germany,92,43713,715,https://s.research.com/images/scholars/64x64/37858.webp
+472,24,Jan Peters,Technical University of Darmstadt,Germany,92,39958,645,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+473,8,Marco Di Renzo,CentraleSupélec,France,92,39626,536,https://s.research.com/images/scholars/64x64/89508.webp
+474,264,Russell H. Taylor,Johns Hopkins University,United States,92,38230,610,https://s.research.com/images/scholars/64x64/27791.webp
+475,53,T.C.E. Cheng,Hong Kong Polytechnic University,China,92,36765,692,https://s.research.com/images/scholars/64x64/33383.webp
+476,265,Mark D. Hill,University of Wisconsin–Madison,United States,92,36712,296,https://s.research.com/images/scholars/64x64/32414.webp
+477,54,Tao Mei,Jingdong (China),China,92,35970,493,https://s.research.com/images/scholars/64x64/50421.webp
+478,25,Jan Mendling,Humboldt-Universität zu Berlin,Germany,92,35401,563,https://s.research.com/images/scholars/64x64/45004.webp
+479,266,Milind Tambe,Harvard University,United States,92,33622,680,https://s.research.com/images/scholars/64x64/33719.webp
+480,267,Andrew B. Kahng,University of California,San Diego,92,33382,676,https://s.research.com/images/scholars/64x64/30644.webp
+481,55,Junwei Han,Northwestern Polytechnical University,China,92,33330,394,https://s.research.com/images/scholars/64x64/83126.webp
+482,268,Guohong Cao,Pennsylvania State University,United States,92,31508,314,https://s.research.com/images/scholars/64x64/32698.webp
+483,56,Liang Gao,Huazhong University of Science and Technology,China,92,31110,720,https://s.research.com/images/scholars/64x64/89749.webp
+484,57,Jie Tang,Tsinghua University,China,92,30878,488,https://s.research.com/images/scholars/64x64/62525.webp
+485,7,Beng Chin Ooi,National University of Singapore,Singapore,92,28898,465,https://s.research.com/images/scholars/64x64/36033.webp
+486,8,David Lo,Singapore Management University,Singapore,92,28847,537,https://s.research.com/images/scholars/64x64/69121.webp
+487,5,Francisco José García-Peñalvo,University of Salamanca,Spain,92,26461,947,https://s.research.com/images/scholars/64x64/68249.webp
+488,30,Oriol Vinyals,DeepMind (United Kingdom),United Kingdom,91,167112,182,https://s.research.com/images/scholars/64x64/64469.webp
+489,4,Max Welling,University of Amsterdam,Netherlands,91,92817,347,https://s.research.com/images/scholars/64x64/52019.webp
+490,269,Devi Parikh,Facebook (United States),United States,91,71259,234,https://s.research.com/images/scholars/64x64/73042.webp
+491,270,Henning Schulzrinne,Columbia University,United States,91,69325,705,https://s.research.com/images/scholars/64x64/28605.webp
+492,271,Taghi M. Khoshgoftaar,Florida Atlantic University,United States,91,55151,733,https://s.research.com/images/scholars/64x64/2135004.webp
+493,272,Ramesh Jain,University of California,Irvine,91,53414,624,https://s.research.com/images/scholars/64x64/33700.webp
+494,273,Michael L. Littman,Brown University,United States,91,53004,322,https://s.research.com/images/scholars/64x64/37106.webp
+495,4,Johan A. K. Suykens,KU Leuven,Belgium,91,52168,732,https://s.research.com/images/scholars/64x64/32014.webp
+496,274,Pattie Maes,MIT,United States,91,50001,436,https://s.research.com/images/scholars/64x64/41555.webp
+497,275,Edward A. Lee,University of California,Berkeley,91,48830,509,https://s.research.com/images/scholars/64x64/32392.webp
+498,276,Mahadev Satyanarayanan,Carnegie Mellon University,United States,91,47576,301,https://s.research.com/images/scholars/64x64/36899.webp
+499,18,Pierre Hansen,HEC Montréal,Canada,91,43355,476,https://s.research.com/images/scholars/64x64/36319.webp
+500,31,Peter Willett,University of Sheffield,United Kingdom,91,40046,498,https://s.research.com/images/scholars/64x64/32850.webp
+501,277,Phillip B. Gibbons,Carnegie Mellon University,United States,91,39461,293,https://s.research.com/images/scholars/64x64/40708.webp
+502,278,Daniel Klein,University of California,Berkeley,91,38732,257,https://s.research.com/images/scholars/64x64/25817.webp
+503,32,Giles M. Foody,University of Nottingham,United Kingdom,91,37777,319,https://s.research.com/images/scholars/64x64/33639.webp
+504,1,Ioannis Pitas,Aristotle University of Thessaloniki,Greece,91,37135,869,https://s.research.com/images/scholars/64x64/31889.webp
+505,279,Moti Yung,Columbia University,United States,91,37119,524,https://s.research.com/images/scholars/64x64/138453.webp
+506,280,Aggelos K. Katsaggelos,Northwestern University,United States,91,36552,"1,123",https://s.research.com/images/scholars/64x64/34601.webp
+507,58,Hisao Ishibuchi,Southern University of Science and Technology,China,91,36303,834,https://s.research.com/images/scholars/64x64/44001.webp
+508,3,Kim Guldstrand Larsen,Aalborg University,Denmark,91,35097,664,https://s.research.com/images/scholars/64x64/34403.webp
+509,8,Chin-Teng Lin,University of Technology Sydney,Australia,91,34570,671,https://s.research.com/images/scholars/64x64/51220.webp
+510,19,Kerstin Dautenhahn,University of Waterloo,Canada,91,34113,519,https://s.research.com/images/scholars/64x64/40727.webp
+511,281,Ming C. Lin,University of Maryland,College Park,91,33899,398,https://s.research.com/images/scholars/64x64/32109.webp
+512,9,Steven C. H. Hoi,Singapore Management University,Singapore,91,32548,383,https://s.research.com/images/scholars/64x64/74799.webp
+513,282,Jose M. F. Moura,Carnegie Mellon University,United States,91,32133,638,https://s.research.com/images/scholars/64x64/44688.webp
+514,59,Michael K. Ng,Hong Kong Baptist University,China,91,30045,609,https://s.research.com/images/scholars/64x64/45024.webp
+515,5,Ingrid Verbauwhede,KU Leuven,Belgium,91,29795,579,https://s.research.com/images/scholars/64x64/40099.webp
+516,283,Mary Czerwinski,Microsoft (United States),United States,91,26023,352,https://s.research.com/images/scholars/64x64/32866.webp
+517,33,Marc Davis,Yahoo (United Kingdom),United Kingdom,91,23098,270,https://s.research.com/images/scholars/64x64/13458.webp
+518,284,Deva Ramanan,Carnegie Mellon University,United States,90,126784,225,https://s.research.com/images/scholars/64x64/65417.webp
+519,285,Kevin W. Bowyer,University of Notre Dame,United States,90,97907,525,https://s.research.com/images/scholars/64x64/36295.webp
+520,286,Carl Kesselman,University of Southern California,United States,90,81248,288,https://s.research.com/images/scholars/64x64/32769.webp
+521,287,M. Frans Kaashoek,MIT,United States,90,64539,211,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+522,60,Zhengyou Zhang,Tencent (China),China,90,61716,470,https://s.research.com/images/scholars/64x64/35069.webp
+523,26,Andreas Geiger,University of Tübingen,Germany,90,59160,173,https://s.research.com/images/scholars/64x64/120599.webp
+524,288,Amit Sahai,University of California,Los Angeles,90,56768,286,https://s.research.com/images/scholars/64x64/36337.webp
+525,289,Tie-Yan Liu,Microsoft (United States),United States,90,55059,538,https://s.research.com/images/scholars/64x64/81036.webp
+526,290,Honglak Lee,University of Michigan–Ann Arbor,United States,90,54405,204,https://s.research.com/images/scholars/64x64/60520.webp
+527,291,Piotr Indyk,MIT,United States,90,50774,305,https://s.research.com/images/scholars/64x64/41559.webp
+528,292,Wenjing Lou,Virginia Tech,United States,90,50637,331,https://s.research.com/images/scholars/64x64/36928.webp
+529,61,Jingdong Wang,Baidu (China),China,90,49056,271,https://s.research.com/images/scholars/64x64/66275.webp
+530,293,Miron Livny,University of Wisconsin–Madison,United States,90,47053,299,https://s.research.com/images/scholars/64x64/34551.webp
+531,62,Yu Zheng,Jingdong (China),China,90,46118,245,https://s.research.com/images/scholars/64x64/38674.webp
+532,34,Steve Young,University of Cambridge,United Kingdom,90,39760,328,https://s.research.com/images/scholars/64x64/32990.webp
+533,294,Robert Nowak,University of Wisconsin–Madison,United States,90,38712,389,https://s.research.com/images/scholars/64x64/34552.webp
+534,295,Kenneth R. Koedinger,Carnegie Mellon University,United States,90,37803,435,https://s.research.com/images/scholars/64x64/38072.webp
+535,296,Ken Goldberg,University of California,Berkeley,90,34083,574,https://s.research.com/images/scholars/64x64/47825.webp
+536,297,James M. Rehg,University of Illinois at Urbana-Champaign,United States,90,32089,335,https://s.research.com/images/scholars/64x64/43308.webp
+537,298,Jimeng Sun,University of Illinois at Urbana-Champaign,United States,90,31706,361,https://s.research.com/images/scholars/64x64/129546.webp
+538,299,Anupam Joshi,University of Maryland,Baltimore County,90,31432,502,https://s.research.com/images/scholars/64x64/31983.webp
+539,35,Arumugam Nallanathan,Queen Mary University of London,United Kingdom,90,30904,729,https://s.research.com/images/scholars/64x64/78962.webp
+540,10,Xiaoli Li,Agency for Science,Technology and Research,90,30650,730,https://s.research.com/images/scholars/64x64/56651.webp
+541,300,James Glass,MIT,United States,90,28538,459,https://s.research.com/images/scholars/64x64/58936.webp
+542,301,Katsushi Ikeuchi,Microsoft (United States),United States,90,27895,832,https://s.research.com/images/scholars/64x64/39869.webp
+543,63,Qionghai Dai,Tsinghua University,China,90,27861,733,https://s.research.com/images/scholars/64x64/59645.webp
+544,36,Zahir Irani,University of Bradford,United Kingdom,90,27268,336,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+545,20,Baochun Li,University of Toronto,Canada,90,27112,446,https://s.research.com/images/scholars/64x64/33479.webp
+546,302,Meikang Qiu,Augusta University,United States,90,20950,509,https://s.research.com/images/scholars/64x64/89179.webp
+547,303,Richard Socher,you.com,United States,89,153361,212,https://s.research.com/images/scholars/64x64/112117.webp
+548,304,Robert E. Schapire,Microsoft (United States),United States,89,143220,222,https://s.research.com/images/scholars/64x64/39868.webp
+549,305,Kyunghyun Cho,New York University,United States,89,125711,305,https://s.research.com/images/scholars/64x64/78558.webp
+550,306,Yi Ma,University of California,Berkeley,89,75643,259,https://s.research.com/images/scholars/64x64/39257.webp
+551,307,Silvio Micali,MIT,United States,89,65331,214,https://s.research.com/images/scholars/64x64/41560.webp
+552,308,Dorin Comaniciu,Siemens (United States),United States,89,57484,602,https://s.research.com/images/scholars/64x64/40050.webp
+553,309,Michael Mitzenmacher,Harvard University,United States,89,51436,385,https://s.research.com/images/scholars/64x64/35935.webp
+554,310,Norman P. Jouppi,Google (United States),United States,89,42195,259,https://s.research.com/images/scholars/64x64/45685.webp
+555,64,Yong Yu,Shanghai Jiao Tong University,China,89,40981,436,https://s.research.com/images/scholars/64x64/56033.webp
+556,311,Haibo He,University of Rhode Island,United States,89,39994,513,https://s.research.com/images/scholars/64x64/68613.webp
+557,312,Yun Fu,Northeastern University,United States,89,38638,517,https://s.research.com/images/scholars/64x64/57230.webp
+558,9,Fatih Porikli,Australian National University,Australia,89,37720,463,https://s.research.com/images/scholars/64x64/56193.webp
+559,313,Graham Neubig,Carnegie Mellon University,United States,89,34022,559,https://s.research.com/images/scholars/64x64/227415.webp
+560,65,Jie Zhou,Tsinghua University,China,89,32624,641,https://s.research.com/images/scholars/64x64/114938.webp
+561,314,Nirwan Ansari,New Jersey Institute of Technology,United States,89,30827,738,https://s.research.com/images/scholars/64x64/47372.webp
+562,66,Xingyuan Wang,Dalian University of Technology,China,89,28470,489,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+563,18,Nadia Magnenat-Thalmann,University of Geneva,Switzerland,89,27580,903,https://s.research.com/images/scholars/64x64/51152.webp
+564,10,David Peleg,Weizmann Institute of Science,Israel,89,27029,452,https://s.research.com/images/scholars/64x64/33263.webp
+565,3,Muhammad Khurram Khan,King Saud University,Saudi Arabia,89,25795,468,https://s.research.com/images/scholars/64x64/64505.webp
+566,1,Hamido Fujita,University of Technology Malaysia,Malaysia,89,25763,490,https://s.research.com/images/scholars/64x64/120182.webp
+567,6,Juan M. Corchado,University of Salamanca,Spain,89,24923,863,https://s.research.com/images/scholars/64x64/50200.webp
+568,315,Gregory R. Ganger,Carnegie Mellon University,United States,89,23759,320,https://s.research.com/images/scholars/64x64/40707.webp
+569,2,Andrea Massa,University of Trento,Italy,89,23470,744,https://s.research.com/images/scholars/64x64/39071.webp
+570,1,Peter Corcoran,National University of Ireland,Galway,89,19554,511,https://s.research.com/images/scholars/64x64/31799.webp
+571,316,Donald A. Norman,University of California,San Diego,88,108288,246,https://s.research.com/images/scholars/64x64/29031.webp
+572,317,Kai Li,Princeton University,United States,88,97511,215,https://s.research.com/images/scholars/64x64/40049.webp
+573,10,Richard Hartley,Australian National University,Australia,88,78005,394,https://s.research.com/images/scholars/64x64/50300.webp
+574,318,Prabhakar Raghavan,Google (United States),United States,88,77382,256,https://s.research.com/images/scholars/64x64/30279.webp
+575,319,John Canny,University of California,Berkeley,88,72819,319,https://s.research.com/images/scholars/64x64/39255.webp
+576,67,Dong Yu,Tencent (China),China,88,60182,378,https://s.research.com/images/scholars/64x64/49741.webp
+577,320,Edward H. Adelson,MIT,United States,88,58536,250,https://s.research.com/images/scholars/64x64/41558.webp
+578,321,Pedro Domingos,University of Washington,United States,88,54759,213,https://s.research.com/images/scholars/64x64/36074.webp
+579,322,Patrick McDaniel,University of Wisconsin–Madison,United States,88,52892,303,https://s.research.com/images/scholars/64x64/45010.webp
+580,323,Ran Canetti,Boston University,United States,88,48755,282,https://s.research.com/images/scholars/64x64/42839.webp
+581,2,Mehdi Bennis,University of Oulu,Finland,88,45369,568,https://s.research.com/images/scholars/64x64/85961.webp
+582,324,Somesh Jha,University of Wisconsin–Madison,United States,88,44413,359,https://s.research.com/images/scholars/64x64/47857.webp
+583,325,Ge Wang,Rensselaer Polytechnic Institute,United States,88,44274,771,https://s.research.com/images/scholars/64x64/40337.webp
+584,326,Michael A. Arbib,University of Southern California,United States,88,44031,470,https://s.research.com/images/scholars/64x64/29807.webp
+585,327,Victor R. Basili,University of Maryland,College Park,88,42484,464,https://s.research.com/images/scholars/64x64/34222.webp
+586,328,Rafail Ostrovsky,University of California,Los Angeles,88,40752,422,https://s.research.com/images/scholars/64x64/38763.webp
+587,11,Chau Yuen,Nanyang Technological University,Singapore,88,39806,681,https://s.research.com/images/scholars/64x64/70309.webp
+588,68,Xiangnan He,University of Science and Technology of China,China,88,39606,288,https://s.research.com/images/scholars/64x64/207301.webp
+589,329,Louis-Philippe Morency,Carnegie Mellon University,United States,88,36003,418,https://s.research.com/images/scholars/64x64/67700.webp
+590,69,Hongsheng Li,Chinese University of Hong Kong,China,88,35795,306,https://s.research.com/images/scholars/64x64/109713.webp
+591,330,Simon Jones,Microsoft (United States),United States,88,35196,599,https://s.research.com/images/scholars/64x64/29513.webp
+592,331,Douglas C. Schmidt,William & Mary,United States,88,34897,552,https://s.research.com/images/scholars/64x64/37821.webp
+593,332,Hui Xiong,Rutgers,The State University of New Jersey,88,34079,472,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+594,70,Shi Jin,Southeast University,China,88,32257,703,https://s.research.com/images/scholars/64x64/78608.webp
+595,71,Jieping Ye,Alibaba Group (China),China,88,30299,372,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+596,12,Weisi Lin,Nanyang Technological University,Singapore,88,28791,630,https://s.research.com/images/scholars/64x64/54417.webp
+597,2,Nei Kato,Tohoku University,Japan,88,27823,572,https://s.research.com/images/scholars/64x64/64356.webp
+598,72,Xian-Sheng Hua,Alibaba Group (China),China,88,27466,583,https://s.research.com/images/scholars/64x64/74201.webp
+599,73,Jeffrey Xu Yu,Chinese University of Hong Kong,China,88,25869,565,https://s.research.com/images/scholars/64x64/46391.webp
+600,74,Jianbing Shen,University of Macau,China,88,24823,262,https://s.research.com/images/scholars/64x64/145978.webp
+601,3,Massimiliano Di Penta,University of Sannio,Italy,88,23806,370,https://s.research.com/images/scholars/64x64/80153.webp
+602,333,Jeffrey Dean,Google (United States),United States,87,223821,230,https://s.research.com/images/scholars/64x64/41599.webp
+603,334,Johannes Gehrke,Microsoft (United States),United States,87,62604,342,https://s.research.com/images/scholars/64x64/38541.webp
+604,335,Stuart K. Card,Stanford University,United States,87,57506,240,https://s.research.com/images/scholars/64x64/40863.webp
+605,336,Shafi Goldwasser,University of California,Berkeley,87,53181,203,https://s.research.com/images/scholars/64x64/42879.webp
+606,337,Ravi Kumar,Google (United States),United States,87,52839,399,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+607,11,Hugh Durrant-Whyte,University of Sydney,Australia,87,51375,350,https://s.research.com/images/scholars/64x64/39264.webp
+608,2,Josef Sivic,Czech Technical University in Prague,Czech Republic,87,48762,182,https://s.research.com/images/scholars/64x64/74683.webp
+609,75,Ming-Ming Cheng,Nankai University,China,87,48547,209,https://s.research.com/images/scholars/64x64/157868.webp
+610,338,Nancy Lynch,MIT,United States,87,45741,472,https://s.research.com/images/scholars/64x64/36410.webp
+611,339,Li Da Xu,Old Dominion University,United States,87,43089,239,https://s.research.com/images/scholars/64x64/51643.webp
+612,340,Narendra Ahuja,University of Illinois at Urbana-Champaign,United States,87,42886,494,https://s.research.com/images/scholars/64x64/40130.webp
+613,5,Maarten de Rijke,University of Amsterdam,Netherlands,87,41587,784,https://s.research.com/images/scholars/64x64/55882.webp
+614,13,Hui Zhang,National University of Singapore,Singapore,87,41065,195,https://s.research.com/images/scholars/64x64/39337.webp
+615,341,Tzyy-Ping Jung,University of California,San Diego,87,40655,376,https://s.research.com/images/scholars/64x64/55836.webp
+616,37,Sheng Chen,University of Southampton,United Kingdom,87,40057,731,https://s.research.com/images/scholars/64x64/38579.webp
+617,342,Andrew T. Campbell,Dartmouth College,United States,87,39933,331,https://s.research.com/images/scholars/64x64/35809.webp
+618,343,Manuela Veloso,Carnegie Mellon University,United States,87,39148,715,https://s.research.com/images/scholars/64x64/38073.webp
+619,12,Peter Corke,Queensland University of Technology,Australia,87,37158,528,https://s.research.com/images/scholars/64x64/46030.webp
+620,344,Bhaskar Krishnamachari,University of Southern California,United States,87,36109,479,https://s.research.com/images/scholars/64x64/42417.webp
+621,345,Jay F. Nunamaker,University of Arizona,United States,87,35802,490,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+622,76,Hai Jin,Huazhong University of Science and Technology,China,87,33652,"1,613",https://s.research.com/images/scholars/64x64/58641.webp
+623,346,Mung Chiang,Purdue University West Lafayette,United States,87,33388,479,https://s.research.com/images/scholars/64x64/36717.webp
+624,347,Qian Du,Mississippi State University,United States,87,32651,597,https://s.research.com/images/scholars/64x64/77364.webp
+625,77,Hongyuan Zha,Chinese University of Hong Kong,Shenzhen,87,32573,426,https://s.research.com/images/scholars/64x64/49603.webp
+626,348,Thomas Reps,University of Wisconsin–Madison,United States,87,32521,384,https://s.research.com/images/scholars/64x64/39275.webp
+627,349,Sham M. Kakade,Harvard University,United States,87,32488,244,https://s.research.com/images/scholars/64x64/58164.webp
+628,1,Aboul Ella Hassanien,Cairo University,Egypt,87,31848,"1,110",https://s.research.com/images/scholars/64x64/147247.webp
+629,78,Xinbo Gao,Chongqing University of Posts and Telecommunications,China,87,31775,813,https://s.research.com/images/scholars/64x64/56509.webp
+630,350,James A. Landay,Stanford University,United States,87,31474,278,https://s.research.com/images/scholars/64x64/42608.webp
+631,351,Ramakant Nevatia,University of Southern California,United States,87,30682,287,https://s.research.com/images/scholars/64x64/60706.webp
+632,352,Dennis Shasha,New York University,United States,87,30321,496,https://s.research.com/images/scholars/64x64/36498.webp
+633,38,Georg Gottlob,University of Oxford,United Kingdom,87,29846,464,https://s.research.com/images/scholars/64x64/39729.webp
+634,353,George G. Robertson,Microsoft (United States),United States,87,29496,224,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+635,79,Heng Tao Shen,University of Electronic Science and Technology of China,China,87,29175,455,https://s.research.com/images/scholars/64x64/56713.webp
+636,80,Linglong Dai,Tsinghua University,China,87,28785,335,https://s.research.com/images/scholars/64x64/105053.webp
+637,354,Xiang-Gen Xia,University of Delaware,United States,87,28776,732,https://s.research.com/images/scholars/64x64/41331.webp
+638,355,Jeffrey F. Naughton,Celonis,United States,87,28388,261,https://s.research.com/images/scholars/64x64/36859.webp
+639,356,Moeness G. Amin,Villanova University,United States,87,28123,833,https://s.research.com/images/scholars/64x64/45655.webp
+640,39,Francisco Chiclana,De Montfort University,United Kingdom,87,27736,373,https://s.research.com/images/scholars/64x64/61466.webp
+641,357,Michael J. Carey,University of California,Irvine,87,27255,311,https://s.research.com/images/scholars/64x64/34797.webp
+642,3,Erol Gelenbe,Institute of Theoretical and Applied Informatics,Poland,87,26540,616,https://s.research.com/images/scholars/64x64/38967.webp
+643,81,Rong Jin,Alibaba Group (China),China,87,25632,412,https://s.research.com/images/scholars/64x64/40005.webp
+644,82,Ling Wang,Tsinghua University,China,87,23545,351,https://s.research.com/images/scholars/64x64/62526.webp
+645,358,Demetri Terzopoulos,University of California,Los Angeles,86,72884,362,https://s.research.com/images/scholars/64x64/41460.webp
+646,83,Stephen Lin,Microsoft Research Asia (China),China,86,61802,241,https://s.research.com/images/scholars/64x64/63787.webp
+647,359,Neil J. A. Sloane,OEIS Foundation Inc.,United States,86,59773,326,https://s.research.com/images/scholars/64x64/45795.webp
+648,40,Yvonne Rogers,University College London,United Kingdom,86,54598,365,https://s.research.com/images/scholars/64x64/39808.webp
+649,360,Anind K. Dey,University of Washington,United States,86,52555,352,https://s.research.com/images/scholars/64x64/42475.webp
+650,361,Ricardo Baeza-Yates,Northeastern University,United States,86,50450,600,https://s.research.com/images/scholars/64x64/35638.webp
+651,362,Peter L. Bartlett,University of California,Berkeley,86,46652,345,https://s.research.com/images/scholars/64x64/51598.webp
+652,6,Fahad Shahbaz Khan,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,86,45635,243,https://s.research.com/images/scholars/64x64/218228.webp
+653,363,David Forsyth,University of Illinois at Urbana-Champaign,United States,86,45345,319,https://s.research.com/images/scholars/64x64/38786.webp
+654,11,Noam Nisan,Hebrew University of Jerusalem,Israel,86,39673,240,https://s.research.com/images/scholars/64x64/39247.webp
+655,364,Jake K. Aggarwal,The University of Texas at Austin,United States,86,39489,473,https://s.research.com/images/scholars/64x64/40322.webp
+656,3,Sankar K. Pal,Indian Statistical Institute,India,86,37621,539,https://s.research.com/images/scholars/64x64/38547.webp
+657,21,Sanja Fidler,University of Toronto,Canada,86,37560,233,https://s.research.com/images/scholars/64x64/105329.webp
+658,365,Ed H. Chi,Google (United States),United States,86,37469,345,https://s.research.com/images/scholars/64x64/64471.webp
+659,84,Fei-Yue Wang,Chinese Academy of Sciences,China,86,37210,743,https://s.research.com/images/scholars/64x64/55694.webp
+660,366,Filippo Menczer,Indiana University,United States,86,36997,283,https://s.research.com/images/scholars/64x64/50847.webp
+661,367,Monica S. Lam,Stanford University,United States,86,35780,221,https://s.research.com/images/scholars/64x64/37381.webp
+662,368,Rada Mihalcea,University of Michigan–Ann Arbor,United States,86,35680,370,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+663,369,Kathleen M. Carley,Carnegie Mellon University,United States,86,34924,600,https://s.research.com/images/scholars/64x64/42076.webp
+664,370,Edward R. Dougherty,Texas A&M University,United States,86,34473,815,https://s.research.com/images/scholars/64x64/37561.webp
+665,2,Chin-Chen Chang,Feng Chia University,Taiwan,86,33390,"1,476",https://s.research.com/images/scholars/64x64/39177.webp
+666,85,Lei Zhang,International Digital Economy Academy,China,86,32963,440,https://s.research.com/images/scholars/64x64/52547.webp
+667,6,Sabine Van Huffel,KU Leuven,Belgium,86,32848,900,https://s.research.com/images/scholars/64x64/58758.webp
+668,371,Jiliang Tang,Michigan State University,United States,86,32769,321,https://s.research.com/images/scholars/64x64/102627.webp
+669,6,Marijn Janssen,Delft University of Technology,Netherlands,86,31992,615,https://s.research.com/images/scholars/64x64/74123.webp
+670,22,Rongxing Lu,Queen's University,Canada,86,30626,494,https://s.research.com/images/scholars/64x64/53670.webp
+671,372,Victor Lesser,University of Massachusetts Amherst,United States,86,30523,442,https://s.research.com/images/scholars/64x64/35178.webp
+672,373,Barry Smith,University at Buffalo,State University of New York,86,30269,429,https://s.research.com/images/scholars/64x64/39854.webp
+673,27,Kurt Mehlhorn,Max Planck Institute for Informatics,Germany,86,30260,565,https://s.research.com/images/scholars/64x64/37207.webp
+674,374,Cynthia Breazeal,MIT,United States,86,30184,320,https://s.research.com/images/scholars/64x64/53070.webp
+675,23,Konstantinos N. Plataniotis,University of Toronto,Canada,86,28943,724,https://s.research.com/images/scholars/64x64/62764.webp
+676,375,Sing Bing Kang,Zillow Group (United States),United States,86,27662,313,https://s.research.com/images/scholars/64x64/36150.webp
+677,86,Kay Chen Tan,Hong Kong Polytechnic University,China,86,26120,587,https://s.research.com/images/scholars/64x64/77030.webp
+678,14,Nitish V. Thakor,National University of Singapore,Singapore,86,25262,758,https://s.research.com/images/scholars/64x64/31658.webp
+679,87,Yong Xu,Harbin Institute of Technology,China,86,25182,402,https://s.research.com/images/scholars/64x64/81501.webp
+680,88,Lingyang Song,Peking University,China,86,25050,607,https://s.research.com/images/scholars/64x64/75607.webp
+681,4,Harish Garg,Thapar University,India,86,23894,464,https://s.research.com/images/scholars/64x64/83104.webp
+682,5,Arun Kumar Sangaiah,Vellore Institute of Technology University,India,86,22771,520,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+683,89,Zhigang Zeng,Huazhong University of Science and Technology,China,86,22361,507,https://s.research.com/images/scholars/64x64/77920.webp
+684,6,Ashok Kumar Das,International Institute of Information Technology,Hyderabad,86,21047,369,https://s.research.com/images/scholars/64x64/158961.webp
+685,376,Fernando Pereira,Google (United States),United States,85,76018,180,https://s.research.com/images/scholars/64x64/44183.webp
+686,9,Jean Ponce,École Normale Supérieure,France,85,67229,289,https://s.research.com/images/scholars/64x64/43927.webp
+687,377,Thomas G. Dietterich,Oregon State University,United States,85,64176,314,https://s.research.com/images/scholars/64x64/45383.webp
+688,19,Thomas Hofmann,ETH Zurich,Switzerland,85,56552,389,https://s.research.com/images/scholars/64x64/68090.webp
+689,378,Yang Zhang,University of Michigan–Ann Arbor,United States,85,54533,228,https://s.research.com/images/scholars/64x64/52180.webp
+690,379,Benjamin Recht,University of California,Berkeley,85,54222,189,https://s.research.com/images/scholars/64x64/65247.webp
+691,380,Ronald Fagin,IBM (United States),United States,85,50124,207,https://s.research.com/images/scholars/64x64/38431.webp
+692,381,Philip A. Bernstein,Microsoft (United States),United States,85,42631,306,https://s.research.com/images/scholars/64x64/41218.webp
+693,382,David Wetherall,Google (United States),United States,85,40890,179,https://s.research.com/images/scholars/64x64/34994.webp
+694,383,Antonio Criminisi,Microsoft (United States),United States,85,40700,261,https://s.research.com/images/scholars/64x64/46867.webp
+695,384,Ari Juels,Cornell University,United States,85,40278,185,https://s.research.com/images/scholars/64x64/35817.webp
+696,90,Guang-Zhong Yang,Shanghai Jiao Tong University,China,85,38106,913,https://s.research.com/images/scholars/64x64/42369.webp
+697,385,Peter Brusilovsky,University of Pittsburgh,United States,85,37952,580,https://s.research.com/images/scholars/64x64/43622.webp
+698,386,Thad Starner,Georgia Institute of Technology,United States,85,36776,409,https://s.research.com/images/scholars/64x64/39273.webp
+699,28,Frank Leymann,University of Stuttgart,Germany,85,35203,712,https://s.research.com/images/scholars/64x64/41025.webp
+700,387,Mauricio G. C. Resende,University of Washington,United States,85,34768,281,https://s.research.com/images/scholars/64x64/54540.webp
+701,388,Pankaj K. Agarwal,Duke University,United States,85,34594,475,https://s.research.com/images/scholars/64x64/37074.webp
+702,389,Nuno Vasconcelos,University of California,San Diego,85,34580,285,https://s.research.com/images/scholars/64x64/48055.webp
+703,12,Yishay Mansour,Tel Aviv University,Israel,85,34488,430,https://s.research.com/images/scholars/64x64/45779.webp
+704,390,Shai Halevi,Amazon (United States),United States,85,34457,235,https://s.research.com/images/scholars/64x64/52399.webp
+705,391,Gerard Medioni,Amazon (United States),United States,85,34123,476,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+706,392,Jim Kurose,University of Massachusetts Amherst,United States,85,33501,337,https://s.research.com/images/scholars/64x64/34058.webp
+707,91,Yong Rui,Lenovo (China),China,85,31968,319,https://s.research.com/images/scholars/64x64/46871.webp
+708,92,Shutao Li,Hunan University,China,85,31917,364,https://s.research.com/images/scholars/64x64/66428.webp
+709,4,Maurizio Lenzerini,Sapienza University of Rome,Italy,85,31822,365,https://s.research.com/images/scholars/64x64/38549.webp
+710,93,Wenwu Zhu,Tsinghua University,China,85,30724,502,https://s.research.com/images/scholars/64x64/55481.webp
+711,94,Irwin King,Chinese University of Hong Kong,China,85,30599,493,https://s.research.com/images/scholars/64x64/70571.webp
+712,95,Xiaokang Yang,Shanghai Jiao Tong University,China,85,28239,549,https://s.research.com/images/scholars/64x64/65915.webp
+713,96,Lei Chen,Hong Kong University of Science and Technology,China,85,28212,796,https://s.research.com/images/scholars/64x64/44545.webp
+714,97,Jieping Ye,Alibaba Group (China),China,85,27263,335,https://s.research.com/images/scholars/64x64/46586.webp
+715,393,Keshab K. Parhi,University of Minnesota,United States,85,26986,793,https://s.research.com/images/scholars/64x64/44342.webp
+716,13,Yang Xiang,Swinburne University of Technology,Australia,85,26341,665,https://s.research.com/images/scholars/64x64/39210.webp
+717,394,Erik D. Demaine,MIT,United States,85,26111,649,https://s.research.com/images/scholars/64x64/50901.webp
+718,395,Angelos D. Keromytis,Georgia Institute of Technology,United States,85,25658,391,https://s.research.com/images/scholars/64x64/38530.webp
+719,396,Anand Raghunathan,Purdue University West Lafayette,United States,85,25277,443,https://s.research.com/images/scholars/64x64/43183.webp
+720,397,Arvind Krishnamurthy,University of Washington,United States,85,25124,227,https://s.research.com/images/scholars/64x64/52431.webp
+721,7,Krithi Ramamritham,Indian Institute of Technology Bombay,India,85,24871,506,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+722,3,Patricia Melin,Instituto Tecnológico de Tijuana,Mexico,85,23192,901,https://s.research.com/images/scholars/64x64/53102.webp
+723,15,Dipti Srinivasan,National University of Singapore,Singapore,85,22336,412,https://s.research.com/images/scholars/64x64/60728.webp
+724,398,Naixue Xiong,Sul Ross State University,United States,85,19863,665,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+725,399,Ron Weiss,MIT,United States,84,175887,219,https://s.research.com/images/scholars/64x64/45686.webp
+726,41,John Shawe-Taylor,University College London,United Kingdom,84,91592,543,https://s.research.com/images/scholars/64x64/50362.webp
+727,7,Tinne Tuytelaars,KU Leuven,Belgium,84,86012,456,https://s.research.com/images/scholars/64x64/64195.webp
+728,400,Bernardo A. Huberman,CableLabs,United States,84,52815,325,https://s.research.com/images/scholars/64x64/38556.webp
+729,401,Ravi Sandhu,The University of Texas at San Antonio,United States,84,47091,452,https://s.research.com/images/scholars/64x64/40196.webp
+730,42,Barbara Kitchenham,Keele University,United Kingdom,84,44568,250,https://s.research.com/images/scholars/64x64/40230.webp
+731,402,David Garlan,Carnegie Mellon University,United States,84,44287,431,https://s.research.com/images/scholars/64x64/42075.webp
+732,98,Xindong Wu,Hefei University of Technology,China,84,44086,642,https://s.research.com/images/scholars/64x64/63937.webp
+733,403,Avrim Blum,Toyota Technological Institute at Chicago,United States,84,43667,259,https://s.research.com/images/scholars/64x64/40502.webp
+734,404,Ronald M. Summers,National Institutes of Health,United States,84,40377,532,https://s.research.com/images/scholars/64x64/48479.webp
+735,405,Jerry L. Prince,Johns Hopkins University,United States,84,40152,634,https://s.research.com/images/scholars/64x64/49980.webp
+736,99,Dahua Lin,Chinese University of Hong Kong,China,84,39989,261,https://s.research.com/images/scholars/64x64/138144.webp
+737,406,Lyle H. Ungar,University of Pennsylvania,United States,84,38458,407,https://s.research.com/images/scholars/64x64/42701.webp
+738,407,Henry Kautz,University of Virginia,United States,84,37976,253,https://s.research.com/images/scholars/64x64/35206.webp
+739,408,Leandros Tassiulas,Yale University,United States,84,36757,585,https://s.research.com/images/scholars/64x64/43805.webp
+740,20,Jean-Yves Le Boudec,École Polytechnique Fédérale de Lausanne,Switzerland,84,36476,435,https://s.research.com/images/scholars/64x64/133976.webp
+741,409,Fan Chung,University of California,San Diego,84,36055,311,https://s.research.com/images/scholars/64x64/39435.webp
+742,410,R. Srikant,University of Illinois at Urbana-Champaign,United States,84,35004,393,https://s.research.com/images/scholars/64x64/41489.webp
+743,411,Diane J. Cook,Washington State University,United States,84,33168,486,https://s.research.com/images/scholars/64x64/48076.webp
+744,412,René Vidal,University of Pennsylvania,United States,84,32694,340,https://s.research.com/images/scholars/64x64/43529.webp
+745,413,Geoffrey M. Voelker,University of California,San Diego,84,32314,207,https://s.research.com/images/scholars/64x64/48051.webp
+746,414,Claire Cardie,Cornell University,United States,84,30661,236,https://s.research.com/images/scholars/64x64/60162.webp
+747,100,Zhen Lei,Chinese Academy of Sciences,China,84,30469,289,https://s.research.com/images/scholars/64x64/73183.webp
+748,415,Niraj K. Jha,Princeton University,United States,84,30210,601,https://s.research.com/images/scholars/64x64/38700.webp
+749,101,Bo Li,Fudan University,China,84,29943,825,https://s.research.com/images/scholars/64x64/2134898.webp
+750,7,Wiro J. Niessen,Erasmus University Rotterdam,Netherlands,84,29552,561,https://s.research.com/images/scholars/64x64/31752.webp
+751,416,Stan Sclaroff,Boston University,United States,84,29470,321,https://s.research.com/images/scholars/64x64/50826.webp
+752,417,Edward J. Delp,Purdue University West Lafayette,United States,84,29089,779,https://s.research.com/images/scholars/64x64/43184.webp
+753,14,Saeid Nahavandi,Swinburne University of Technology,Australia,84,28332,"1,023",https://s.research.com/images/scholars/64x64/101112.webp
+754,418,Christos Kozyrakis,Stanford University,United States,84,28180,217,https://s.research.com/images/scholars/64x64/43876.webp
+755,419,Christopher Ré,Stanford University,United States,84,28169,314,https://s.research.com/images/scholars/64x64/77627.webp
+756,15,Dragan Gasevic,Monash University,Australia,84,27957,722,https://s.research.com/images/scholars/64x64/75810.webp
+757,420,Maneesh Agrawala,Stanford University,United States,84,27862,270,https://s.research.com/images/scholars/64x64/46916.webp
+758,421,Kadangode K. Ramakrishnan,University of California,Riverside,84,27859,452,https://s.research.com/images/scholars/64x64/45673.webp
+759,422,Nasir Memon,New York University,United States,84,27061,382,https://s.research.com/images/scholars/64x64/37717.webp
+760,423,Albert Cohen,Google (United States),United States,84,26672,353,https://s.research.com/images/scholars/64x64/125003.webp
+761,424,Divyakant Agrawal,University of California,Santa Barbara,84,26236,502,https://s.research.com/images/scholars/64x64/37259.webp
+762,102,Daqing Zhang,Peking University,China,84,26188,365,https://s.research.com/images/scholars/64x64/62255.webp
+763,103,Zheng Chen,Microsoft Research Asia (China),China,84,26127,339,https://s.research.com/images/scholars/64x64/35070.webp
+764,425,Wojciech Matusik,MIT,United States,84,26124,323,https://s.research.com/images/scholars/64x64/55009.webp
+765,21,Gustavo Alonso,ETH Zurich,Switzerland,84,25342,424,https://s.research.com/images/scholars/64x64/44982.webp
+766,104,Xiaofeng Liao,Chongqing University,China,84,24175,524,https://s.research.com/images/scholars/64x64/40585.webp
+767,426,Jonathan J. Hull,Independent Scientist / Consultant,US,84,22880,311,https://s.research.com/images/scholars/64x64/28312.webp
+768,427,Denys Poshyvanyk,William & Mary,United States,84,20012,225,https://s.research.com/images/scholars/64x64/58621.webp
+769,2,Zhihan Lv,Uppsala University,Sweden,84,19521,333,https://s.research.com/images/scholars/64x64/171165.webp
+770,428,Cary Lee Bates,IBM (United States),United States,84,19338,403,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+771,43,David Silver,DeepMind (United Kingdom),United Kingdom,83,162318,181,https://s.research.com/images/scholars/64x64/69359.webp
+772,429,Andrew G. Barto,University of Massachusetts Amherst,United States,83,98204,255,https://s.research.com/images/scholars/64x64/43962.webp
+773,430,Nitesh V. Chawla,University of Notre Dame,United States,83,87410,448,https://s.research.com/images/scholars/64x64/71712.webp
+774,431,Joseph A. Konstan,University of Minnesota,United States,83,77363,273,https://s.research.com/images/scholars/64x64/40351.webp
+775,432,Cynthia Dwork,Harvard University,United States,83,70163,216,https://s.research.com/images/scholars/64x64/44950.webp
+776,8,Thomas Stützle,Université Libre de Bruxelles,Belgium,83,68475,483,https://s.research.com/images/scholars/64x64/49118.webp
+777,433,Carlos Guestrin,Stanford University,United States,83,67894,196,https://s.research.com/images/scholars/64x64/41126.webp
+778,434,Scott Makeig,University of California,San Diego,83,66287,258,https://s.research.com/images/scholars/64x64/33627.webp
+779,435,Dhruv Batra,Georgia Institute of Technology,United States,83,65070,271,https://s.research.com/images/scholars/64x64/109220.webp
+780,436,Brent Waters,The University of Texas at Austin,United States,83,64401,193,https://s.research.com/images/scholars/64x64/41703.webp
+781,437,Baining Guo,Microsoft (United States),United States,83,58145,286,https://s.research.com/images/scholars/64x64/61026.webp
+782,24,David J. Fleet,University of Toronto,Canada,83,57970,207,https://s.research.com/images/scholars/64x64/65320.webp
+783,9,Joos Vandewalle,KU Leuven,Belgium,83,56875,774,https://s.research.com/images/scholars/64x64/31031.webp
+784,44,Christopher J. Taylor,Atkins (United Kingdom),United Kingdom,83,50669,446,https://s.research.com/images/scholars/64x64/10529.webp
+785,438,Rajeev Rastogi,Amazon (United States),United States,83,41084,286,https://s.research.com/images/scholars/64x64/43703.webp
+786,439,Hanan Samet,University of Maryland,College Park,83,38931,396,https://s.research.com/images/scholars/64x64/40218.webp
+787,45,David J. Hawkes,University College London,United Kingdom,83,38498,578,https://s.research.com/images/scholars/64x64/36103.webp
+788,13,Ron Kimmel,Technion – Israel Institute of Technology,Israel,83,38132,390,https://s.research.com/images/scholars/64x64/46160.webp
+789,440,Babak Hassibi,California Institute of Technology,United States,83,37902,581,https://s.research.com/images/scholars/64x64/41618.webp
+790,105,Deng Cai,Zhejiang University,China,83,35832,311,https://s.research.com/images/scholars/64x64/60145.webp
+791,10,Serge Abiteboul,École Normale Supérieure,France,83,35322,356,https://s.research.com/images/scholars/64x64/42102.webp
+792,441,Trevor Mudge,University of Michigan–Ann Arbor,United States,83,35206,491,https://s.research.com/images/scholars/64x64/37146.webp
+793,14,Michal Irani,Weizmann Institute of Science,Israel,83,35179,164,https://s.research.com/images/scholars/64x64/51216.webp
+794,106,Qingming Huang,University of Chinese Academy of Sciences,China,83,34696,677,https://s.research.com/images/scholars/64x64/91928.webp
+795,442,Frank Tom Leighton,MIT,United States,83,34362,244,https://s.research.com/images/scholars/64x64/111540.webp
+796,7,Gustau Camps-Valls,University of Valencia,Spain,83,33333,442,https://s.research.com/images/scholars/64x64/111026.webp
+797,107,Zibin Zheng,Sun Yat-sen University,China,83,32046,375,https://s.research.com/images/scholars/64x64/1613512.webp
+798,443,Jeffrey Heer,University of Washington,United States,83,31324,198,https://s.research.com/images/scholars/64x64/56217.webp
+799,444,Alok Choudhary,Northwestern University,United States,83,30010,694,https://s.research.com/images/scholars/64x64/51746.webp
+800,445,Jeffrey A. Fessler,University of Michigan–Ann Arbor,United States,83,29873,576,https://s.research.com/images/scholars/64x64/37149.webp
+801,25,Ping Wang,York University,Canada,83,29410,449,https://s.research.com/images/scholars/64x64/66722.webp
+802,108,Changsheng Xu,Chinese Academy of Sciences,China,83,27594,544,https://s.research.com/images/scholars/64x64/65399.webp
+803,446,Kevin Knight,University of Southern California,United States,83,27364,270,https://s.research.com/images/scholars/64x64/43683.webp
+804,447,Xiaoming Liu,Michigan State University,United States,83,27112,294,https://s.research.com/images/scholars/64x64/92976.webp
+805,448,Alex Aiken,Stanford University,United States,83,26689,269,https://s.research.com/images/scholars/64x64/41268.webp
+806,449,Jessica K. Hodgins,Carnegie Mellon University,United States,83,26510,287,https://s.research.com/images/scholars/64x64/47924.webp
+807,450,Jasjit S. Suri,University of Idaho,United States,83,25896,526,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+808,16,Willy Susilo,University of Wollongong,Australia,83,25697,834,https://s.research.com/images/scholars/64x64/60425.webp
+809,451,Henry Fuchs,University of North Carolina at Chapel Hill,United States,83,25223,340,https://s.research.com/images/scholars/64x64/43900.webp
+810,109,Zongben Xu,Xi'an Jiaotong University,China,83,25021,445,https://s.research.com/images/scholars/64x64/66114.webp
+811,110,Feng Wu,University of Science and Technology of China,China,83,24839,678,https://s.research.com/images/scholars/64x64/82261.webp
+812,111,Jinhui Tang,Nanjing University of Science and Technology,China,83,24548,344,https://s.research.com/images/scholars/64x64/92327.webp
+813,5,Giuseppe De Giacomo,Sapienza University of Rome,Italy,83,24457,371,https://s.research.com/images/scholars/64x64/52568.webp
+814,452,Adam Soroca,Millennial Media LLC,United States,83,22269,100,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+815,112,Shuihua Wang,Xi’an Jiaotong-Liverpool University,China,83,21450,368,https://s.research.com/images/scholars/64x64/95130.webp
+816,113,Yong Deng,University of Electronic Science and Technology of China,China,83,20679,435,https://s.research.com/images/scholars/64x64/58909.webp
+817,453,Kilian Q. Weinberger,Cornell University,United States,82,87260,224,https://s.research.com/images/scholars/64x64/67857.webp
+818,454,Padhraic Smyth,University of California,Irvine,82,63061,377,https://s.research.com/images/scholars/64x64/40946.webp
+819,455,Andrew Fitzgibbon,Graphcore,United States,82,50888,282,https://s.research.com/images/scholars/64x64/45257.webp
+820,456,Paramvir Bahl,Microsoft (United States),United States,82,50675,178,https://s.research.com/images/scholars/64x64/33943.webp
+821,29,Holger H. Hoos,RWTH Aachen University,Germany,82,38156,330,https://s.research.com/images/scholars/64x64/49926.webp
+822,457,Mohammed J. Zaki,Rensselaer Polytechnic Institute,United States,82,37494,347,https://s.research.com/images/scholars/64x64/51166.webp
+823,458,Mehryar Mohri,Google (United States),United States,82,36393,314,https://s.research.com/images/scholars/64x64/51957.webp
+824,459,Hiroshi Ishii,MIT,United States,82,35872,383,https://s.research.com/images/scholars/64x64/147903.webp
+825,460,Barbara Liskov,MIT,United States,82,34703,211,https://s.research.com/images/scholars/64x64/37617.webp
+826,8,Jan J. Koenderink,Delft University of Technology,Netherlands,82,34217,474,https://s.research.com/images/scholars/64x64/34129.webp
+827,461,Ellen M. Voorhees,National Institute of Standards and Technology,United States,82,34097,193,https://s.research.com/images/scholars/64x64/45483.webp
+828,462,Tian He,University of Minnesota,United States,82,33852,339,https://s.research.com/images/scholars/64x64/43045.webp
+829,463,Christophe Diot,Google (United States),United States,82,33377,263,https://s.research.com/images/scholars/64x64/43530.webp
+830,46,Nigel Shadbolt,University of Oxford,United Kingdom,82,32758,631,https://s.research.com/images/scholars/64x64/46729.webp
+831,464,Ling Liu,Georgia Institute of Technology,United States,82,32379,627,https://s.research.com/images/scholars/64x64/43306.webp
+832,465,Anant Madabhushi,Emory University,United States,82,32321,616,https://s.research.com/images/scholars/64x64/78996.webp
+833,114,Sam Kwong,Lingnan University,China,82,31935,588,https://s.research.com/images/scholars/64x64/84558.webp
+834,17,Anton van den Hengel,University of Adelaide,Australia,82,31468,364,https://s.research.com/images/scholars/64x64/99413.webp
+835,4,Ivan Damgård,Aarhus University,Denmark,82,31387,310,https://s.research.com/images/scholars/64x64/55761.webp
+836,1,Gheorghe Paun,Romanian Academy,Romania,82,31288,525,https://s.research.com/images/scholars/64x64/168526.webp
+837,466,Steven Feiner,Columbia University,United States,82,31255,366,https://s.research.com/images/scholars/64x64/46861.webp
+838,30,Christof Paar,Max Planck Institute for Security and Privacy,Germany,82,30744,394,https://s.research.com/images/scholars/64x64/54859.webp
+839,467,Chin-Hui Lee,Georgia Institute of Technology,United States,82,28856,594,https://s.research.com/images/scholars/64x64/47848.webp
+840,47,Simon R. Arridge,University College London,United Kingdom,82,28529,518,https://s.research.com/images/scholars/64x64/30023.webp
+841,468,Jodi Forlizzi,Carnegie Mellon University,United States,82,28313,262,https://s.research.com/images/scholars/64x64/57454.webp
+842,469,Vishal M. Patel,Johns Hopkins University,United States,82,27673,389,https://s.research.com/images/scholars/64x64/118847.webp
+843,470,Ness B. Shroff,The Ohio State University,United States,82,27390,522,https://s.research.com/images/scholars/64x64/45615.webp
+844,471,Nick Feamster,University of Chicago,United States,82,27371,352,https://s.research.com/images/scholars/64x64/49099.webp
+845,15,Shie Mannor,Technion – Israel Institute of Technology,Israel,82,26658,466,https://s.research.com/images/scholars/64x64/79522.webp
+846,472,Yang Xiao,University of Alabama,United States,82,26615,574,https://s.research.com/images/scholars/64x64/47590.webp
+847,473,Nicholas Roy,MIT,United States,82,25904,324,https://s.research.com/images/scholars/64x64/53075.webp
+848,31,Manfred Reichert,University of Ulm,Germany,82,25551,705,https://s.research.com/images/scholars/64x64/44366.webp
+849,22,Joachim M. Buhmann,ETH Zurich,Switzerland,82,25276,357,https://s.research.com/images/scholars/64x64/48286.webp
+850,16,Robert H. Deng,Singapore Management University,Singapore,82,24796,615,https://s.research.com/images/scholars/64x64/61526.webp
+851,474,George Hripcsak,Columbia University,United States,82,24626,410,https://s.research.com/images/scholars/64x64/45250.webp
+852,475,Prashant Shenoy,University of Massachusetts Amherst,United States,82,24514,350,https://s.research.com/images/scholars/64x64/41356.webp
+853,476,N. Vijaykrishnan,Pennsylvania State University,United States,82,24342,642,https://s.research.com/images/scholars/64x64/96977.webp
+854,26,Weihua Zhuang,University of Waterloo,Canada,82,23533,591,https://s.research.com/images/scholars/64x64/53858.webp
+855,477,s muthukrishnan,Rutgers,The State University of New Jersey,82,23350,238,https://s.research.com/images/scholars/64x64/2130261.webp
+856,478,Arie E. Kaufman,Stony Brook University,United States,82,22975,477,https://s.research.com/images/scholars/64x64/37719.webp
+857,10,Wolfgang Glänzel,KU Leuven,Belgium,82,22497,327,https://s.research.com/images/scholars/64x64/41450.webp
+858,115,Peide Liu,Shandong University of Finance and Economics,China,82,21507,416,https://s.research.com/images/scholars/64x64/119293.webp
+859,479,Scott Mahlke,University of Michigan–Ann Arbor,United States,82,21087,320,https://s.research.com/images/scholars/64x64/48264.webp
+860,27,Ravin Balakrishnan,University of Toronto,Canada,82,20770,184,https://s.research.com/images/scholars/64x64/38038.webp
+861,480,Steve B Jiang,The University of Texas Southwestern Medical Center,United States,82,18870,545,https://s.research.com/images/scholars/64x64/46123.webp
+862,481,Léon Bottou,Facebook (United States),United States,81,136556,193,https://s.research.com/images/scholars/64x64/64518.webp
+863,482,Kate Saenko,Boston University,United States,81,58858,243,https://s.research.com/images/scholars/64x64/78201.webp
+864,483,Robert M. Gray,Stanford University,United States,81,56509,390,https://s.research.com/images/scholars/64x64/38582.webp
+865,23,Luca Maria Gambardella,Dalle Molle Institute for Artificial Intelligence Research,Switzerland,81,55003,366,https://s.research.com/images/scholars/64x64/51865.webp
+866,48,Timothy F. Cootes,University of Manchester,United Kingdom,81,51512,315,https://s.research.com/images/scholars/64x64/37853.webp
+867,116,Chris Ding,Chinese University of Hong Kong,Shenzhen,81,44980,303,https://s.research.com/images/scholars/64x64/51512.webp
+868,484,Muriel Medard,MIT,United States,81,44830,734,https://s.research.com/images/scholars/64x64/38841.webp
+869,485,Roy Want,Google (United States),United States,81,43244,241,https://s.research.com/images/scholars/64x64/41600.webp
+870,486,Phillip Rogaway,University of California,Davis,81,43081,165,https://s.research.com/images/scholars/64x64/47623.webp
+871,117,Xiaofei He,Zhejiang University,China,81,41091,274,https://s.research.com/images/scholars/64x64/57573.webp
+872,3,Heikki Mannila,Aalto University,Finland,81,41053,279,https://s.research.com/images/scholars/64x64/36833.webp
+873,487,Zygmunt J. Haas,The University of Texas at Dallas,United States,81,38588,323,https://s.research.com/images/scholars/64x64/44221.webp
+874,488,Syed A. Jafar,University of California,Irvine,81,37300,310,https://s.research.com/images/scholars/64x64/40952.webp
+875,489,Lydia E. Kavraki,Rice University,United States,81,37239,350,https://s.research.com/images/scholars/64x64/51526.webp
+876,490,Alan Frieze,Carnegie Mellon University,United States,81,37185,627,https://s.research.com/images/scholars/64x64/46259.webp
+877,49,Luca Cardelli,University of Oxford,United Kingdom,81,34871,244,https://s.research.com/images/scholars/64x64/42450.webp
+878,50,Michael M. Bronstein,University of Oxford,United Kingdom,81,34689,349,https://s.research.com/images/scholars/64x64/70512.webp
+879,491,Margaret Martonosi,Princeton University,United States,81,33027,308,https://s.research.com/images/scholars/64x64/47061.webp
+880,492,Michael F. Cohen,Facebook (United States),United States,81,32581,215,https://s.research.com/images/scholars/64x64/36798.webp
+881,493,José Meseguer,University of Illinois at Urbana-Champaign,United States,81,31874,486,https://s.research.com/images/scholars/64x64/40129.webp
+882,3,Masashi Sugiyama,RIKEN,Japan,81,31831,800,https://s.research.com/images/scholars/64x64/83131.webp
+883,494,Jason Hong,Carnegie Mellon University,United States,81,31625,293,https://s.research.com/images/scholars/64x64/51736.webp
+884,118,Dong Xu,University of Hong Kong,China,81,30850,275,https://s.research.com/images/scholars/64x64/59809.webp
+885,24,Konrad Schindler,ETH Zurich,Switzerland,81,30087,290,https://s.research.com/images/scholars/64x64/56025.webp
+886,495,Andrea Montanari,Stanford University,United States,81,29242,275,https://s.research.com/images/scholars/64x64/2134757.webp
+887,32,Stefan Decker,RWTH Aachen University,Germany,81,28794,398,https://s.research.com/images/scholars/64x64/46741.webp
+888,496,Wen-mei W. Hwu,University of Illinois at Urbana-Champaign,United States,81,28750,496,https://s.research.com/images/scholars/64x64/45538.webp
+889,7,Le Song,Mohamed bin Zayed University of Artificial Intelligence,United Arab Emirates,81,27888,275,https://s.research.com/images/scholars/64x64/67585.webp
+890,18,Toby Walsh,Commonwealth Scientific and Industrial Research Organisation,Australia,81,27634,446,https://s.research.com/images/scholars/64x64/48660.webp
+891,119,Jiayi Ma,Wuhan University,China,81,27412,288,https://s.research.com/images/scholars/64x64/198033.webp
+892,497,Roy H. Campbell,University of Illinois at Urbana-Champaign,United States,81,27340,496,https://s.research.com/images/scholars/64x64/42826.webp
+893,120,Houqiang Li,University of Science and Technology of China,China,81,26899,520,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+894,498,Joel H. Saltz,Stony Brook University,United States,81,26288,574,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+895,499,Bernard Chazelle,Princeton University,United States,81,26241,244,https://s.research.com/images/scholars/64x64/43993.webp
+896,33,Lutz Bornmann,Max Planck Institute for Solid State Research,Germany,81,26171,466,https://s.research.com/images/scholars/64x64/60675.webp
+897,34,Wolfgang Nejdl,University of Hannover,Germany,81,26132,578,https://s.research.com/images/scholars/64x64/47440.webp
+898,28,Xiaodong Lin,University of Guelph,Canada,81,26108,380,https://s.research.com/images/scholars/64x64/71760.webp
+899,1,Seong-Whan Lee,Korea University,Korea,81,25989,586,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+900,35,Dieter Schmalstieg,University of Stuttgart,Germany,81,25863,589,https://s.research.com/images/scholars/64x64/52172.webp
+901,121,Enhong Chen,University of Science and Technology of China,China,81,24291,578,https://s.research.com/images/scholars/64x64/133363.webp
+902,2,Barry Smyth,University College Dublin,Ireland,81,24112,510,https://s.research.com/images/scholars/64x64/47943.webp
+903,11,Bernard De Baets,Ghent University,Belgium,81,24035,980,https://s.research.com/images/scholars/64x64/73035.webp
+904,500,Jamie Callan,Carnegie Mellon University,United States,81,22688,272,https://s.research.com/images/scholars/64x64/87718.webp
+905,501,Houbing Song,University of Maryland,Baltimore County,81,22586,468,https://s.research.com/images/scholars/64x64/147512.webp
+906,502,Heang Ping Chan,University of Michigan–Ann Arbor,United States,81,21856,482,https://s.research.com/images/scholars/64x64/46593.webp
+907,122,Shipeng Li,Chinese University of Hong Kong,Shenzhen,81,21616,471,https://s.research.com/images/scholars/64x64/37352.webp
+908,36,Patrick Baudisch,Hasso Plattner Institute,Germany,81,20678,280,https://s.research.com/images/scholars/64x64/44578.webp
+909,503,Dean F. Sittig,The University of Texas Health Science Center at Houston,United States,81,20673,408,https://s.research.com/images/scholars/64x64/47577.webp
+910,123,Quan Zou,University of Electronic Science and Technology of China,China,81,20672,364,https://s.research.com/images/scholars/64x64/103917.webp
+911,4,M. Shamim Hossain,King Saud University,Saudi Arabia,81,19625,338,https://s.research.com/images/scholars/64x64/218030.webp
+912,504,Michael A. Paolini,IBM (United States),United States,81,17813,255,https://s.research.com/images/scholars/64x64/30814.webp
+913,505,John Lafferty,Yale University,United States,80,82118,181,https://s.research.com/images/scholars/64x64/45220.webp
+914,506,John E. Hopcroft,Cornell University,United States,80,75965,246,https://s.research.com/images/scholars/64x64/55820.webp
+915,51,Mark Handley,University College London,United Kingdom,80,68459,159,https://s.research.com/images/scholars/64x64/42507.webp
+916,52,Yee Whye Teh,University of Oxford,United Kingdom,80,55827,267,https://s.research.com/images/scholars/64x64/77116.webp
+917,507,W.E.L. Grimson,MIT,United States,80,51716,202,https://s.research.com/images/scholars/64x64/127103.webp
+918,53,Ingemar J. Cox,University College London,United Kingdom,80,45725,340,https://s.research.com/images/scholars/64x64/39814.webp
+919,508,Arun Ross,Michigan State University,United States,80,44680,363,https://s.research.com/images/scholars/64x64/60796.webp
+920,509,Jean-Claude Latombe,Stanford University,United States,80,44233,225,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+921,510,Stephanie Forrest,Arizona State University,United States,80,41207,231,https://s.research.com/images/scholars/64x64/44100.webp
+922,2,In So Kweon,Korea Advanced Institute of Science and Technology,Korea,80,40910,624,https://s.research.com/images/scholars/64x64/93735.webp
+923,511,Paul Dourish,University of California,Irvine,80,40056,213,https://s.research.com/images/scholars/64x64/44917.webp
+924,37,Thomas Lengauer,Max Planck Institute for Informatics,Germany,80,38833,420,https://s.research.com/images/scholars/64x64/29217.webp
+925,124,Nanning Zheng,Xi'an Jiaotong University,China,80,36446,878,https://s.research.com/images/scholars/64x64/88865.webp
+926,512,Eric Brewer,University of California,Berkeley,80,35899,207,https://s.research.com/images/scholars/64x64/43297.webp
+927,513,Leonard Kleinrock,University of California,Los Angeles,80,35784,266,https://s.research.com/images/scholars/64x64/38762.webp
+928,38,Matthias Nießner,Technical University of Munich,Germany,80,35754,229,https://s.research.com/images/scholars/64x64/283329.webp
+929,514,Maurice Herlihy,Brown University,United States,80,34642,359,https://s.research.com/images/scholars/64x64/55943.webp
+930,515,Larry Wasserman,Carnegie Mellon University,United States,80,33514,292,https://s.research.com/images/scholars/64x64/49688.webp
+931,125,Zhouchen Lin,Peking University,China,80,32437,439,https://s.research.com/images/scholars/64x64/75608.webp
+932,126,Eric W.T. Ngai,Hong Kong Polytechnic University,China,80,31854,231,https://s.research.com/images/scholars/64x64/55487.webp
+933,516,Ewa Deelman,University of Southern California,United States,80,31525,388,https://s.research.com/images/scholars/64x64/45076.webp
+934,517,Andreas Stolcke,Uniphore,United States,80,31248,310,https://s.research.com/images/scholars/64x64/46869.webp
+935,518,Garth A. Gibson,Carnegie Mellon University,United States,80,31244,258,https://s.research.com/images/scholars/64x64/49685.webp
+936,519,Keith W. Ross,New York University,United States,80,30285,259,https://s.research.com/images/scholars/64x64/44244.webp
+937,8,Swagatam Das,Indian Statistical Institute,India,80,30209,454,https://s.research.com/images/scholars/64x64/68624.webp
+938,520,Kathleen R. McKeown,Columbia University,United States,80,29314,385,https://s.research.com/images/scholars/64x64/54610.webp
+939,521,Christopher G. Atkeson,Carnegie Mellon University,United States,80,29255,224,https://s.research.com/images/scholars/64x64/46257.webp
+940,29,Azzedine Boukerche,University of Ottawa,Canada,80,28460,"1,193",https://s.research.com/images/scholars/64x64/62057.webp
+941,522,Danielle S. McNamara,Arizona State University,United States,80,28443,475,https://s.research.com/images/scholars/64x64/44101.webp
+942,1,gonzalo navarro,University of Chile,Chile,80,28228,531,https://s.research.com/images/scholars/64x64/2130257.webp
+943,523,Ravi Ramamoorthi,University of California,San Diego,80,27949,248,https://s.research.com/images/scholars/64x64/73418.webp
+944,524,Stephen O. Lemay,Apple (United States),United States,80,27712,284,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+945,525,John R. Smith,IBM (United States),United States,80,27526,398,https://s.research.com/images/scholars/64x64/54475.webp
+946,526,Joshua C. Denny,National Institutes of Health,United States,80,27489,369,https://s.research.com/images/scholars/64x64/43431.webp
+947,527,Yun Q. Shi,New Jersey Institute of Technology,United States,80,26968,409,https://s.research.com/images/scholars/64x64/82359.webp
+948,528,Jeffrey Scott Vitter,University of Mississippi,United States,80,26925,366,https://s.research.com/images/scholars/64x64/45591.webp
+949,529,Ruzena Bajcsy,University of California,Berkeley,80,26735,535,https://s.research.com/images/scholars/64x64/51601.webp
+950,530,Xiaojiang Du,Stevens Institute of Technology,United States,80,26378,674,https://s.research.com/images/scholars/64x64/88838.webp
+951,531,Junzhou Huang,The University of Texas at Arlington,United States,80,26193,412,https://s.research.com/images/scholars/64x64/174961.webp
+952,54,Jian-Bo Yang,University of Manchester,United Kingdom,80,25960,385,https://s.research.com/images/scholars/64x64/53469.webp
+953,532,Kostas Daniilidis,University of Pennsylvania,United States,80,25640,324,https://s.research.com/images/scholars/64x64/77872.webp
+954,533,Geoffrey B. Rhoads,Digimarc (United States),United States,80,25238,183,https://s.research.com/images/scholars/64x64/17625.webp
+955,127,Lei Shu,Nanjing Agricultural University,China,80,25000,602,https://s.research.com/images/scholars/64x64/81932.webp
+956,8,Humberto Bustince,Universidad Publica De Navarra,Spain,80,24450,519,https://s.research.com/images/scholars/64x64/284922.webp
+957,534,Roberta L. Klatzky,Carnegie Mellon University,United States,80,24113,321,https://s.research.com/images/scholars/64x64/34598.webp
+958,535,William R. Hersh,Oregon Health & Science University,United States,80,23792,399,https://s.research.com/images/scholars/64x64/46013.webp
+959,19,Jie Lu,University of Technology Sydney,Australia,80,23776,709,https://s.research.com/images/scholars/64x64/67134.webp
+960,17,Kian-Lee Tan,National University of Singapore,Singapore,80,23102,484,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+961,9,Manoj Kumar Tiwari,Indian Institute of Technology Kharagpur,India,80,22939,445,https://s.research.com/images/scholars/64x64/60562.webp
+962,55,Stephen Brewster,University of Glasgow,United Kingdom,80,22145,457,https://s.research.com/images/scholars/64x64/49265.webp
+963,536,Kwan-Liu Ma,University of California,Davis,80,21751,593,https://s.research.com/images/scholars/64x64/47625.webp
+964,537,Dennis Doughty,Capital One (United States),United States,80,21004,103,https://s.research.com/images/scholars/64x64/36925.webp
+965,538,Jorey Ramer,Super Home Inc.,United States,80,20832,94,https://s.research.com/images/scholars/64x64/36926.webp
+966,12,François-Xavier Standaert,Université Catholique de Louvain,Belgium,80,19893,393,https://s.research.com/images/scholars/64x64/58880.webp
+967,539,Scott E. Hudson,Carnegie Mellon University,United States,80,19246,279,https://s.research.com/images/scholars/64x64/53892.webp
+968,540,Kenneth A. Parulski,aKAP Innovation,LLC,80,18834,316,https://s.research.com/images/scholars/64x64/29751.webp
+969,541,Ross Girshick,Vercept,United States,79,396768,116,https://s.research.com/images/scholars/64x64/75160.webp
+970,542,Stuart Russell,University of California,Berkeley,79,97095,311,https://s.research.com/images/scholars/64x64/2134751.webp
+971,543,Thorsten Joachims,Cornell University,United States,79,85348,213,https://s.research.com/images/scholars/64x64/54049.webp
+972,39,Frank Hutter,University of Freiburg,Germany,79,51725,256,https://s.research.com/images/scholars/64x64/88714.webp
+973,544,Steven M. Seitz,University of Washington,United States,79,46449,202,https://s.research.com/images/scholars/64x64/58167.webp
+974,545,Edward H. Shortliffe,Columbia University,United States,79,45909,326,https://s.research.com/images/scholars/64x64/47213.webp
+975,546,B.S. Manjunath,University of California,Santa Barbara,79,45451,454,https://s.research.com/images/scholars/64x64/46757.webp
+976,6,Diego Calvanese,Free University of Bozen-Bolzano,Italy,79,44017,471,https://s.research.com/images/scholars/64x64/42709.webp
+977,7,Stefano Ceri,Polytechnic University of Milan,Italy,79,42529,515,https://s.research.com/images/scholars/64x64/47111.webp
+978,547,Nitin H. Vaidya,Georgetown University,United States,79,42208,426,https://s.research.com/images/scholars/64x64/51440.webp
+979,548,Bin Yu,University of California,Berkeley,79,41374,239,https://s.research.com/images/scholars/64x64/62690.webp
+980,4,Umeshwar Dayal,Hitachi (Japan),Japan,79,35998,415,https://research.com/classic-rankings-frontend/images/placeholder-scholar.svg
+981,549,Alfred O. Hero,University of Michigan–Ann Arbor,United States,79,34646,835,https://s.research.com/images/scholars/64x64/46596.webp
+982,550,Alexander Tropsha,University of North Carolina at Chapel Hill,United States,79,34229,276,https://s.research.com/images/scholars/64x64/45330.webp
+983,30,Krzysztof Czarnecki,University of Waterloo,Canada,79,33332,321,https://s.research.com/images/scholars/64x64/62824.webp
+984,40,Bastian Leibe,RWTH Aachen University,Germany,79,33033,215,https://s.research.com/images/scholars/64x64/58952.webp
+985,551,Miodrag Potkonjak,University of California,Los Angeles,79,32846,546,https://s.research.com/images/scholars/64x64/42811.webp
+986,128,Zhiyuan Liu,Tsinghua University,China,79,32667,248,https://s.research.com/images/scholars/64x64/192092.webp
+987,552,Daniel P. W. Ellis,Google (United States),United States,79,31930,430,https://s.research.com/images/scholars/64x64/49058.webp
+988,553,Jong-Shi Pang,University of Southern California,United States,79,31776,263,https://s.research.com/images/scholars/64x64/46698.webp
+989,554,Lang Tong,Cornell University,United States,79,29994,551,https://s.research.com/images/scholars/64x64/48043.webp
+990,555,Thomas Zimmermann,Microsoft (United States),United States,79,29007,285,https://s.research.com/images/scholars/64x64/61028.webp
+991,129,Yongdong Zhang,University of Science and Technology of China,China,79,27388,495,https://s.research.com/images/scholars/64x64/118297.webp
+992,16,Ron Shamir,Tel Aviv University,Israel,79,27178,302,https://s.research.com/images/scholars/64x64/38959.webp
+993,556,Mahmut Kandemir,Pennsylvania State University,United States,79,26506,850,https://s.research.com/images/scholars/64x64/54357.webp
+994,557,Abigail Sellen,Microsoft (United States),United States,79,26064,281,https://s.research.com/images/scholars/64x64/45259.webp
+995,558,Chunming Qiao,University at Buffalo,State University of New York,79,25794,539,https://s.research.com/images/scholars/64x64/41206.webp
+996,130,Changshui Zhang,Tsinghua University,China,79,25789,482,https://s.research.com/images/scholars/64x64/55477.webp
+997,8,Mauro Conti,University of Padua,Italy,79,25640,616,https://s.research.com/images/scholars/64x64/104487.webp
+998,559,Viktor K. Prasanna,University of Southern California,United States,79,25399,980,https://s.research.com/images/scholars/64x64/56128.webp
+999,9,Fabio Roli,University of Genoa,Italy,79,25181,406,https://s.research.com/images/scholars/64x64/51412.webp
+1000,131,Kwang-Ting Cheng,Hong Kong University of Science and Technology,China,79,24614,594,https://s.research.com/images/scholars/64x64/51480.webp
